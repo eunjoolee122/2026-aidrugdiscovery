@@ -9,24 +9,10 @@
 ## 2. 아래를 그대로 붙여넣습니다
 
 ```
-https://github.com/eunjoolee122/2026-aidrugdiscovery 를 클론하고,
-그 안의 day5-2-lab/setup/SETUP.md 를 읽어서 적힌 대로 실습 환경을 만들어줘.
-
-내 운영체제에 맞는 쪽을 골라서 진행하고, SETUP.md에 적힌 순서와 버전은
-그대로 지켜줘. 특히 --no-deps 를 빼면 안 돼. 이유는 그 문서에 있어.
-
-나는 프로그래밍을 잘 몰라. 내가 직접 해야 할 일이 생기면
-(파이썬 설치, git 설치 같은 것) 무엇을 어디서 받아야 하는지 알려줘.
-
-다 되면 day5-2-lab/setup/00_check.py 를 실행해줘.
-[FAIL]이 있으면 원인을 찾아 고치고 다시 돌려줘. 모두 [OK]가 될 때까지.
-("TDC 데이터 다운로드"만 실패하는 건 괜찮아 — 넘어가도 돼.)
-
-마지막에 알려줘:
-- 설치된 python / chemprop / admet_ai 버전
-- 실습 폴더의 전체 경로
-- 다음에 가상환경을 다시 켜는 명령 (내 OS 기준)
-- 00_check.py 최종 출력
+https://github.com/eunjoolee122/2026-aidrugdiscovery 를 클론하고
+day5-2-lab/setup/SETUP.md 대로 실습 환경을 만들어줘.
+다 되면 00_check.py 를 돌리고, [FAIL]이 있으면 고쳐서 다시 돌려줘.
+내가 직접 해야 할 게 있으면 알려줘. 프로그래밍은 잘 몰라.
 ```
 
 ## 3. 그대로 두고 강의를 듣습니다

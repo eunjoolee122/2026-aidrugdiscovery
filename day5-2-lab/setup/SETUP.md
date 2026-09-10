@@ -21,7 +21,10 @@ python3 --version
 
 ### 3.10 이하가 나왔다면
 
-**지우고 새로 깔 필요는 없습니다.** 컴퓨터 안에 3.11 이상이 이미 있을 수 있습니다.
+**macOS는 이게 기본입니다.** 대부분 3.12를 새로 설치해야 합니다 —
+[python.org](https://www.python.org/downloads/) 에서 **3.12** 를 받는 것이 가장 확실합니다.
+
+다만 conda·Homebrew를 쓰고 있다면 **이미 3.11 이상이 들어 있을 수 있으니** 먼저 확인해 봅니다.
 
 ```bash
 # macOS · Linux — 아래를 하나씩 쳐 봅니다
@@ -38,6 +41,7 @@ py -0                                   # 설치된 파이썬 목록
 
 하나도 없으면 [python.org](https://www.python.org/downloads/) 에서 **3.12** 를 받습니다.
 **Windows는 설치 첫 화면의 "Add python.exe to PATH" 를 반드시 체크**합니다.
+설치 후 `python3.12 --version` (Windows는 `py -3.12 --version`) 으로 확인합니다.
 
 > conda·mambaforge 안의 파이썬을 써도 됩니다.
 > 다만 **그 환경을 지우면 실습 환경도 함께 깨집니다.**
@@ -122,7 +126,8 @@ ERROR: ResolutionImpossible
 python 00_check.py
 ```
 
-이렇게 **13줄**이 나오면 성공입니다. (`Darwin arm64` 자리에는 자기 운영체제가 나옵니다)
+이렇게 **13줄**이 나오면 성공입니다.
+첫 줄의 `Darwin arm64` 자리에는 자기 운영체제가 나옵니다 — Windows면 `Windows AMD64` 입니다.
 
 ```
 ==============================================================
