@@ -1,0 +1,22 @@
+# PyTDC — 반드시 --no-deps로 설치한다
+#
+#   pip install --no-deps -r requirements-tdc.txt
+#
+# 왜 --no-deps인가
+#   PyTDC 1.1.x는 scikit-learn==1.2.2 · cellxgene-census==1.15.0 ·
+#   numpy<2.0 · pandas<3.0 을 고정 요구한다. 그대로 설치하면
+#   chemprop이 쓰는 최신 패키지들이 강등되어 실습 코드가 깨진다.
+#   PyTDC가 실제로 쓰는 것은 아래 몇 개뿐이다.
+#
+# PyTDC 없이도 실습은 된다 — data/ 폴더의 CSV를 쓰면 된다.
+
+PyTDC
+requests
+urllib3
+certifi
+fuzzywuzzy
+huggingface_hub
+httpx
+httpcore
+h11
+setuptools<81

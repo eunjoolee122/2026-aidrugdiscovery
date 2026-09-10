@@ -1,0 +1,16 @@
+# 5일차 ADMET 실습 — 핵심 패키지
+# Python 3.11 ~ 3.14 필요 (chemprop 2.x 요구사항)
+#
+#   pip install -r requirements.txt
+#
+# 다운로드 약 400 MB (torch 124 MB · rdkit 25 MB 포함)
+#
+# 주의 — PyTDC는 여기에 넣지 않는다. requirements-tdc.txt를 따로 쓴다.
+#        PyTDC가 scikit-learn 1.2.2와 cellxgene-census를 고정 요구해서
+#        chemprop과 충돌하기 때문이다.
+
+rdkit>=2024.3
+scikit-learn>=1.5
+chemprop>=2.3,<3
+pandas>=2.0
+numpy>=1.26

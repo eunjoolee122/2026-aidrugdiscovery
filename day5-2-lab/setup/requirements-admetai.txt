@@ -1,0 +1,19 @@
+# ADMET-AI 2.0.1 — 강의자료의 값이 나오는 버전
+#
+#   pip install --no-deps -r requirements-admetai.txt
+#
+# 왜 GitHub에서 받는가
+#   PyPI의 admet_ai는 1.4.0까지만 있고 값이 다르다.
+#   1.4.0은 열이 98개이고 aspirin VDss가 +6.69로 나오지만,
+#   2.0.1은 열 104개에 −2.70이다. 강의의 「물리적으로 불가능한 음수」
+#   논지는 2.0.1에서만 재현된다.
+#
+# 왜 --no-deps인가
+#   admet_ai가 요구하는 버전 고정이 chemprop·PyTDC와 충돌한다.
+#   실제로 쓰는 것은 아래 두 개뿐이다.
+#
+# 라이선스 MIT · 모델 가중치(13 MB)가 패키지에 동봉되어 있다 — 별도 다운로드 없음.
+
+git+https://github.com/swansonk14/admet_ai.git@v_2.0.1
+typed-argument-parser
+docstring_parser

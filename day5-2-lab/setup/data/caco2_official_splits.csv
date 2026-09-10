@@ -1,0 +1,3641 @@
+seed,split,Drug_ID
+1,train,PNU-184435
+1,train,Valsartan
+1,train,1
+1,train,Telaprevir
+1,train,VX-950
+1,train,S-nitrosylated captopril (CapNO)
+1,train,679-Captopril (Cap)
+1,train,Gly-Pro (glycylproline)
+1,train,Captopril (Cap)
+1,train,Cetirizine
+1,train,31
+1,train,PNU-179397
+1,train,N-desmethylclozapine
+1,train,Clozapine
+1,train,DB377 (4)
+1,train,"DB75 [2,5-bis(4-amidinophenyl)furan]"
+1,train,4-(quinolin-4-ylmethylamino)-N-(3-(trifluoromethyl)phenyl)isothiazole-3-carboxamide (30)
+1,train,9
+1,train,Tryptanthrin
+1,train,21d
+1,train,2
+1,train,21e
+1,train,Oxazolidin-2-one (OXa)
+1,train,OXb
+1,train,OXc
+1,train,OXd
+1,train,27
+1,train,29
+1,train,21
+1,train,Brucine N-oxide (B-N)
+1,train,Imidacloprid (IMI)
+1,train,Phencyclidine (PCP)
+1,train,PB-26
+1,train,6
+1,train,echinacoside
+1,train,"3-[5-(4-hydroxyphenyl)-1,3-oxazol-2-yl]phenol (18)"
+1,train,Chlorzoxazone
+1,train,tenidap
+1,train,4-(Pyridin-4-ylmethylamino)-N-(3-(trifluoromethyl)phenyl)isothiazole-3-carboxamide (3)
+1,train,9
+1,train,N-(3-tertbutylphenyl)-4-(pyridin-4-ylmethylamino)isothiazole-3-carboxamide (11)
+1,train,14
+1,train,22
+1,train,tenoxicam
+1,train,Dexamethasone-?-D-glucoside
+1,train,dexamethasone b D glucoside
+1,train,dexamethasone b D glucuronide
+1,train,Dexamethasone-?-D-glucuronide
+1,train,DG (13)
+1,train,243-Famotidine
+1,train,Tiotidine
+1,train,famotidine
+1,train,tiotidine
+1,train,25e
+1,train,Sulfasalamide
+1,train,sulfasalazine
+1,train,20E 22-methyl ether (4)
+1,train,PoA 2-methyl ether (16)
+1,train,PoA 3.22-dimethyl ether (20)
+1,train,Ponasterone A (26)
+1,train,20E 22-ethyl ether (5)
+1,train,20E 22-allyl ether (7)
+1,train,20E 25-methyl ether (10)
+1,train,PoA 22-methyl ether (18)
+1,train,20-Hydroxyecdysone (25)
+1,train,Muristerone A (28)
+1,train,C
+1,train,betazolol ester
+1,train,Betaxolol ester
+1,train,2l
+1,train,2n
+1,train,2m
+1,train,2o
+1,train,OXh
+1,train,"880-(2S,4S,5R)-[2-(E-Phenylvinyl)-4-methyl-1,3-dioxan-5-yl]amine (6b)"
+1,train,"879-(cis)-[2-(E-Phenylvinyl)-1,3-dioxan-5-yl]amine (6a)"
+1,train,PNU200648
+1,train,PNU200648
+1,train,G6191
+1,train,G6264
+1,train,cephalexin
+1,train,cephalexin acetylated
+1,train,Org 5222
+1,train,Corynanthine (COR)
+1,train,Yohimbine (YOH)
+1,train,801-Yohimbine (YOH)
+1,train,Oxaprozin
+1,train,Tamoxifen
+1,train,Chlorpheniramine
+1,train,Rofecoxib
+1,train,Bicalutamide
+1,train,SB209670
+1,train,lamotrigine
+1,train,32h
+1,train,DMP 851
+1,train,Meloxicam
+1,train,(E-Z)-19a
+1,train,(Z)-19c
+1,train,Rhodamine 123 (Rho 123)
+1,train,14
+1,train,13
+1,train,2
+1,train,Ketamine
+1,train,15j
+1,train,15f
+1,train,11-keto-beta-boswellic acid (KBA)
+1,train,Alprenolol ester
+1,train,Oxprenolol ester
+1,train,oxprenolol ester
+1,train,10b
+1,train,Dronedarone
+1,train,Amiloride
+1,train,061-Amiloride
+1,train,Simvastatin
+1,train,Lovastatin
+1,train,"18 (5R,S)"
+1,train,Org 33062
+1,train,Org 25907
+1,train,indobufen
+1,train,MEN15716
+1,train,48d
+1,train,48e
+1,train,MEN15596
+1,train,368177
+1,train,b
+1,train,8
+1,train,10
+1,train,Losartan
+1,train,cyclo[Trp-Ala-Gly-Gly-Asp-Ala]
+1,train,Glycocholate
+1,train,"NK1NK2 analogue 105 (MDL 105,212)"
+1,train,E15
+1,train,E17
+1,train,LY366659
+1,train,LY366799
+1,train,LY366853
+1,train,LY366856
+1,train,167-cephradine
+1,train,"2',3'-dideoxyinosine (ddI)"
+1,train,3
+1,train,Icariin
+1,train,LY366092
+1,train,II
+1,train,XP13512
+1,train,Gancyclovir
+1,train,Val-ACV
+1,train,OXf
+1,train,4
+1,train,2
+1,train,Ketoconazole
+1,train,ketoconazole
+1,train,Betaxolol
+1,train,betazolol
+1,train,PB-43
+1,train,Isovitexin (10)
+1,train,isovitexin 
+1,train,sulfadiazine
+1,train,247-Lobucavir
+1,train,(-)-epicatechin
+1,train,(-)-Epicatechin (36)
+1,train,Epigallocatechin (EGC)
+1,train,Cytarabine (1)
+1,train,5'-L-valyl-cytarabine (2)
+1,train,U-84656 (IV)
+1,train,rapamycin
+1,train,daidzin 
+1,train,Promazine
+1,train,Promethazine
+1,train,34
+1,train,31
+1,train,20
+1,train,Folinic acid
+1,train,25c
+1,train,Desloratadine
+1,train,Nicardipine
+1,train,Lobucavir
+1,train,32
+1,train,Lef53
+1,train,LEF553
+1,train,Cycloheximide
+1,train,sulfamethoxazole
+1,train,Ergonovine
+1,train,Biotin-Saquinavir
+1,train,Zolpidem
+1,train,4b
+1,train,5'-L-phenylalanyl-cytarabine (5)
+1,train,-
+1,train,E24
+1,train,23
+1,train,22
+1,train,24
+1,train,31
+1,train,28
+1,train,30
+1,train,32
+1,train,34
+1,train,35
+1,train,Emetine
+1,train,Teniposide
+1,train,MMMDPB
+1,train,T2000
+1,train,T2007
+1,train,Rivulobirin A
+1,train,KAR-2
+1,train,PNU-184470
+1,train,saquinavir
+1,train,Saquinavir
+1,train,187-Saquinavir
+1,train,F-(S)-IZD
+1,train,Me-(S)-IZD
+1,train,Remikiren (Ro 42-5892)
+1,train,(Z)-19g
+1,train,(Z)-19f
+1,train,theophylline
+1,train,Pentoxifylline
+1,train,caffeine
+1,train,21b
+1,train,PNU200647
+1,train,PNU200603
+1,train,PNU 200603
+1,train,1
+1,train,PNU-179450
+1,train,PNU-182347
+1,train,PNU-182945
+1,train,PNU-241028
+1,train,PNU-179962
+1,train,CA-Leu-Enk
+1,train,943-Ketotifen fumarate (38)
+1,train,Ketotifen
+1,train,Neostenine
+1,train,EF5249
+1,train,"2-Amino-1-methyl-6-phenylimidazo-[4,5-b]pyridine (PhIP)"
+1,train,S1
+1,train,Cepharanthine (CEP)
+1,train,Sorivudine (BVaraU)
+1,train,5'-L-isoleucyl-floxuridine
+1,train,Netivudine (882C87)
+1,train,5'-L-leucyl-L-glycyl-floxuridine
+1,train,5'-L-Val-FUdR
+1,train,5'-L-Leu-FUdR
+1,train,5'-L-glycyl-L-leucyl-floxuridine
+1,train,zidovudine
+1,train,BVaraU
+1,train,5'-L-Asp-FUdR
+1,train,107-zidovudine
+1,train,3'-L-Ile-FUdR
+1,train,36
+1,train,"UK 224,671"
+1,train,Gomisin A
+1,train,quinidine
+1,train,Quinidine
+1,train,Spironolactone
+1,train,Lys-FITC-OCH3
+1,train,EF5289
+1,train,EF5154
+1,train,EF5170
+1,train,EF5232
+1,train,EF5242
+1,train,EF5251
+1,train,EF5265
+1,train,EF5270
+1,train,EF5278
+1,train,EF5283
+1,train,d-praeruptorin
+1,train,NK1NK2 analogue 212 (15d)
+1,train,Metolazone
+1,train,metolazone
+1,train,Cyclo(-PFwKTF-) (1)
+1,train,Cyclo(-PFwKTMeF-) (3)
+1,train,Cyclo(-PFMewKTF-) (4)
+1,train,Cyclo(-PFMewMeKTF-) (6)
+1,train,Cyclo(-PFMewKTMeF-) (7)
+1,train,Cerulenin
+1,train,L-alanine
+1,train,"(2E,4Z,8Z)-N-isobutyldodeca-2,4,10-triene-8 -ynamide"
+1,train,Glycylsarcosine
+1,train,Choline
+1,train,Capric acid (decanoic acid)
+1,train,Ac-Gly-Asn-Ala-NH2
+1,train,Ac-Gly-Lys-Ala-NH2
+1,train,Glutaminic Acid
+1,train,glycerol
+1,train,"8-Hydroxy-pentadeca-(9E,13Z)-dien-11-yn-2-one (2)"
+1,train,CD1
+1,train,"Pentadeca-(8Z,13Z)dien-11-yn-2-one (5)"
+1,train,"Tetradec-(8Z)-ene-11,13-diyn-2-one (6)"
+1,train,CD21
+1,train,"(2E,4Z,8Z)-N-isobutyldodeca-2,4,10-triene-8 -ynamide (4) mw = 245"
+1,train,Valproic acid
+1,train,808-Asn-Ala-NH2
+1,train,"(2E,9Z)-N-(2-methylbutyl)pentadeca-2,9-diene-12,14-diynamide"
+1,train,5-aminolevulinic acid
+1,train,Putrescine
+1,train,"453-(2E,4E,8Z,10Z)-N-Isobutyldodeca-2,4,8,10-tetraenamide (5) mw=247"
+1,train,"643-(2E,4E,8Z)-N-isobutyldodeca-2,4,8-trienamide (6) mw = 249"
+1,train,Acrylamide
+1,train,methanol
+1,train,Glutamine
+1,train,Bendroflumethiazide
+1,train,MEN14732
+1,train,"Quercetin 3,4'-diglucoside"
+1,train,Org 12962
+1,train,12g
+1,train,Arzanol
+1,train,11
+1,train,NK1NK2 analogue 104 (15f)
+1,train,366094
+1,train,353462
+1,train,354400
+1,train,366853
+1,train,341908
+1,train,Rifampicin
+1,train,Amlodipine
+1,train,nitrendipine
+1,train,Nifedipine
+1,train,Nisoldipine
+1,train,Nitrendipine
+1,train,32
+1,train,N-(4-Chlorophenyl)-1-(2-(pyridin-4-yl)ethyl)-1H-pyrazole-5-carboxamide (11)
+1,train,19
+1,train,20
+1,train,N-(4-(Chlorodifluoromethoxy)phenyl)-1-(2-(pyridin-4-yl)ethyl)-1H-pyrazole-5-carboxamide (22)
+1,train,N-(4-tert-Butylphenyl)-1-(2-(pyridin-4-yl)ethyl)-1H-pyrazole-5-carboxamide (23)
+1,train,24
+1,train,PNU-179399
+1,train,N-carbobenzoxy-tryptophan
+1,train,Evodiamine (EDM)
+1,train,N-Acetyl-D-cyclohexylalanine Phenethylamide (12)
+1,train,N-Acetyl-D-cyclohexylalanyl-D-phenylalanine N-Methylamide (6)
+1,train,V
+1,train,25f
+1,train,1-naphthol
+1,train,naproxen
+1,train,naproxen sodium
+1,train,neolignan smi02
+1,train,Mebendazole
+1,train,PNU-100766
+1,train,"Maraviroc (UK-427,857)"
+1,train,MEN15366
+1,train,Haloperidol
+1,train,882-13i
+1,train,881-13h
+1,train,PB-104
+1,train,PB-102
+1,train,Chloroquine
+1,train,6MAQH (W2)
+1,train,8
+1,train,10
+1,train,11
+1,train,12
+1,train,14
+1,train,15
+1,train,16
+1,train,13
+1,train,Ouabain
+1,train,cymarin
+1,train,ouabain
+1,train,Cymarin
+1,train,Rutaecarpine (RCP)
+1,train,Nelfinavir
+1,train,Org 13011
+1,train,25a
+1,train,Ajmalicine (AMC)
+1,train,NS5B inhibitor 2
+1,train,Indinavir
+1,train,Lamivudine
+1,train,Trazodone
+1,train,CFPN-PI
+1,train,016-Ceftibuten
+1,train,CPU-86017
+1,train,Epimedin B
+1,train,Epimedin A
+1,train,25
+1,train,24
+1,train,lisinopril
+1,train,Enalaprilat
+1,train,enalapril
+1,train,Lisinopril
+1,train,Cisapride
+1,train,Raloxifene HCl
+1,train,CA-DADLE
+1,train,"Dimethyl-4',4'-dimethoxy-5,6,5',6'-dimethylene dioxybiphenyl-2,2'-dicarboxylate (DDB)"
+1,train,Bicyclol
+1,train,6
+1,train,7
+1,train,8
+1,train,9
+1,train,13
+1,train,16
+1,train,1
+1,train,2
+1,train,3
+1,train,4
+1,train,vinblastine
+1,train,Camazepam
+1,train,sildenafil
+1,train,Ac-D-phe2-(NMe-D-phe)-NH2
+1,train,Ac-D-phe-(NMe-D-phe)2-NH2 {[14C]-Acf(N-Mef)2NH2 }
+1,train,Ac-(NMe-D-phe)3-NH2
+1,train,Ac-(NMe-D-phe)3-NHMe
+1,train,4
+1,train,6
+1,train,Ac-D-phe3-NH2
+1,train,Thalidomide
+1,train,23
+1,train,228-Raffinose
+1,train,raffinose
+1,train,Triazolam
+1,train,9
+1,train,10c
+1,train,10d
+1,train,11b
+1,train,11c
+1,train,11e
+1,train,12c
+1,train,12d
+1,train,11d
+1,train,11f
+1,train,7d
+1,train,Labetalol
+1,train,codeine
+1,train,Codeine
+1,train,camptothecin
+1,train,9-Nitrocamptothecin (9-NC)
+1,train,Thiamin (Vitamin B1)
+1,train,N-Acetyl-D-phenylalanine Phenethylamide (11a)
+1,train,N-Acetyl-D-phenylalanyl-D-phenylalanine N-Methylamide (5a)
+1,train,Ac-D-phe2-NH2
+1,train,Loxoprofen
+1,train,Org 34167
+1,train,Pyrilamine Maleate
+1,train,Atorvastatin
+1,train,403-Atorvastatin
+1,train,1033-Dextromethorphan (DEM)
+1,train,Dextromethorphan
+1,train,M1
+1,train,Glipizide
+1,train,Chlortetracycline
+1,train,Harmol
+1,train,659-Harmane
+1,train,Bilirubin
+1,train,Bilirubin ditaurate
+1,train,Lithospermic acid (LSA)
+1,train,32g
+1,train,Pyr-His-Pro-NH2 (TRH)
+1,train,Ajmaline (AML)
+1,train,Isoliquiritigenin (35)
+1,train,170-Grepafloxacin hydrochloride (GRX)
+1,train,150-Artesunate
+1,train,artesunate
+1,train,Artesunate
+1,train,DMXAA-G
+1,train,Cefuroxime
+1,train,C
+1,train,"EI analogue 102 (MDL 102,111)"
+1,train,Sucrose
+1,train,preladenant
+1,train,scopolamine
+1,train,Scopolamine
+1,train,Loperamide HCl
+1,train,Clarithromycin
+1,train,erythromycin
+1,train,21c
+1,train,Levofloxacin
+1,train,EF5292
+1,train,Sulfasalazine
+1,train,PDE-310
+1,train,YH439
+1,train,263-Amrinone
+1,train,Olopatadine
+1,train,2d
+1,train,2i
+1,train,2c
+1,train,"EI analogue 101 (MDL 101,146)"
+1,train,MEN15353
+1,train,OXn
+1,train,PNU-93936A
+1,train,Isoxicam
+1,train,12q
+1,train,H 95/71
+1,train,H 244/45
+1,train,D-Phe-D-Ala-D-Ser-OH
+1,train,Dexloxiglumide
+1,train,Ac-D-phe-NH2
+1,train,benzoic acid
+1,train,Methylparaben
+1,train,Propylparaben
+1,train,Butylparaben
+1,train,Octylparaben
+1,train,Guanabenz
+1,train,Methyldopa
+1,train,5-chlorosalicylic acid
+1,train,epinephrine
+1,train,N-Acetyl-D-leucyl-D-phenylalanine N-Methylamide (4)
+1,train,N-Acetylglycine Phenethylamide (7)
+1,train,N-Acetyl-D-valine Phenethylamide (9a)
+1,train,glycine-valine acyclovir
+1,train,guanabenz
+1,train,7
+1,train,6
+1,train,Tanshinol (TSL)
+1,train,Metoprolol
+1,train,acetaminophen
+1,train,N-[5-[(4-Dimethylaminobenzoyl)amino]pentyl]-2-mercaptoacetamide (S2)
+1,train,Vorinostat (SAHA-suberoylanilide hydroxamic acid)
+1,train,Sulfanilic acid
+1,train,Paraoxon
+1,train,alminoprofen
+1,train,D-Glu(OBzl)-Ala
+1,train,N-Acetyl-D-alanyl-D-phenylalanine N-Methylamide (2)
+1,train,N-Acetyl-D-valyl-D-phenylalanine N-Methylamide (3a)
+1,train,D-Ser(Bzl)-Ala
+1,train,N-Acetyl-D-alanine Phenethylamide (8)
+1,train,N-Acetyl-D-leucine Phenethylamide (10)
+1,train,174-Guanabenz
+1,train,285-Ephedrine
+1,train,Amphetamine sulfate
+1,train,OXe
+1,train,Ethylparaben
+1,train,Bisoprolol
+1,train,Methyl gallate
+1,train,Bupropion
+1,train,Epinephrine
+1,train,"(E)-4-(3,4-dimethoxyphenyl)but-3-en-1-yl linoleate (1)"
+1,train,"(E)-4-(3,4-dimethoxyphenyl)but-3-en-1-yl oleate (2)"
+1,train,Compound D
+1,train,S2
+1,train,Liquiritin apioside 
+1,train,indomethacin
+1,train,11
+1,train,G6262
+1,train,neolignan smi05
+1,train,neolignan smi08
+1,train,neolignan smi09
+1,train,neolignan smi06
+1,train,neolignan smi07
+1,train,neolignan smi10
+1,train,32f
+1,train,32b
+1,train,TMC435350 (32c)
+1,train,hydrocortisone
+1,train,corticosterone
+1,train,Corticosterone
+1,train,desoxycarticosterone
+1,train,Proscillaridin
+1,train,-
+1,train,-
+1,train,-
+1,train,-
+1,train,-
+1,train,-
+1,train,-
+1,train,-
+1,train,Ethionamide
+1,train,-
+1,train,-
+1,train,-
+1,train,-
+1,train,CF 1525 (p-Me)
+1,train,CF 1523 (p-Cl)
+1,train,CF 1517 (p-Br)
+1,train,CF 1572 (p-I)
+1,train,CF 1526 (p-OMe)
+1,train,imipramine
+1,train,45b
+1,train,Ginsenoside Rg1 (Rg1)
+1,train,"L1 (1,2-dimethyl-3 hydroxypyridin-4-one)"
+1,train,Doxorubicin
+1,train,Daunorubicin
+1,train,nadalol
+1,train,a
+1,train,E25
+1,train,E23
+1,train,Talinolol
+1,train,IRR (23)
+1,train,IRR 
+1,train,4'-Cl BZT
+1,train,"3',4''-diCl BZT"
+1,train,3'-Cl BZT
+1,train,Flupenthixol
+1,train,2
+1,train,PB-27
+1,train,Carbendazim
+1,train,795-Coptisine chloride (COP)
+1,train,BILN-2061
+1,train,13
+1,train,13c
+1,train,Org 23366
+1,train,Ketanserin
+1,train,XM970
+1,train,PNU200681
+1,train,BMS 189664
+1,train,loracarbef
+1,train,Salvianolic acid D (SAD)
+1,train,30d
+1,train,a-Zearalenol (a-ZEL)
+1,train,10
+1,train,hydralazine
+1,train,Acrivastine
+1,train,Fluorescein
+1,train,EACV
+1,train,SACV
+1,train,AACV
+1,train,VACV
+1,train,IACV
+1,train,atropine
+1,train,Atropine
+1,train,LY334370
+1,train,22
+1,train,12d
+1,train,Erlotinib
+1,train,5m
+1,train,Lactulose
+1,train,Aminopyrine
+1,train,Fluvastatin
+1,train,36
+1,train,23
+1,train,5
+1,train,22
+1,train,17d
+1,train,Bromazepam
+1,train,S-6j
+1,train,cimetidine
+1,train,Cimetidine
+1,train,Tinidazole
+1,train,-
+1,train,Cerivastatin
+1,train,16
+1,train,Fleroxacin
+1,train,Lomefloxacin
+1,train,13
+1,train,14
+1,train,Sulfamethizole
+1,train,12
+1,train,Gefitinib
+1,train,MEN14745
+1,train,isoquercitrin 
+1,valid,Bis(7)-tacrine (B7T)
+1,valid,Terfenadine
+1,valid,fexofenadine
+1,valid,fexofenadine hydrochloride
+1,valid,2e
+1,valid,2j
+1,valid,2k
+1,valid,49
+1,valid,48
+1,valid,6
+1,valid,6b
+1,valid,methylscopolamine
+1,valid,Setrobuvir (ANA598)
+1,valid,Diphenhydramine
+1,valid,Methadone
+1,valid,Prednisolone
+1,valid,677-Prednisolone
+1,valid,Methylprednisolone
+1,valid,prednisolone
+1,valid,Berberrubine (BRB)
+1,valid,Umbelliferone
+1,valid,Angelol-A
+1,valid,Angelol-B
+1,valid,Naringin
+1,valid,-
+1,valid,prazosin
+1,valid,Prazocin
+1,valid,omeprazole
+1,valid,lansoprazole
+1,valid,14c
+1,valid,Verapamil
+1,valid,verapamil
+1,valid,Imatinib
+1,valid,Viloxazine
+1,valid,Byankangelicol
+1,valid,EF5248
+1,valid,Ac-C8-Enk-NH (3)
+1,valid,Met-enkephalin
+1,valid,[D-Ala2]Met-enkephalin
+1,valid,Metkephamid
+1,valid,"877-(2S,4S,5R)-2-[(4'-Chlorophenyl)-4-methyl-1,3-dioxan-5-yl]amine (5h)"
+1,valid,"878-(2S,4S,5R)-2-[(4'-Nitrophenyl)-4-methyl-1,3-dioxan-5-yl]amine (5i)"
+1,valid,Celecoxib
+1,valid,60a
+1,valid,67c
+1,valid,65
+1,valid,Reserpine
+1,valid,Laudanosine (LAU)
+1,valid,XI
+1,valid,XIV
+1,valid,V
+1,valid,VIII
+1,valid,Piroxicam
+1,valid,Exemestane
+1,valid,MEN14268
+1,valid,ME3229
+1,valid,Lobucavir
+1,valid,Rebaudioside A
+1,valid,VLA-4 antagonist 2
+1,valid,VLA-4 antagonist 3
+1,valid,VLA-4 antagonist 4
+1,valid,VLA-4 antagonist 5
+1,valid,VLA-4 antagonist 6
+1,valid,Cycloserine
+1,valid,3
+1,valid,a-Zearalanol (a-ZAL)
+1,valid,meloxicam
+1,valid,propranolol ester
+1,valid,Propranolol ester
+1,valid,5'-L-phenylalanyl-floxuridine
+1,valid,5'-L-valyl-L-phenylalanyl-floxuridine
+1,valid,13d
+1,valid,13e
+1,valid,13g
+1,valid,Tenidap
+1,valid,Furazolidone
+1,valid,Xaliproden (SR57746)
+1,valid,PNU-184148
+1,valid,4c
+1,valid,20(S)-camptothecin (CPT)
+1,valid,ganciclovir
+1,valid,Acyclovir
+1,valid,Diltiazem
+1,valid,SB639
+1,valid,Cycloastragenol
+1,valid,fluparoxan
+1,valid,Fluparoxan (GR50360A)
+1,valid,danazol
+1,valid,Danazol
+1,valid,cefazolin
+1,valid,CD27
+2,train,MEN15353
+2,train,Bromazepam
+2,train,neolignan smi02
+2,train,4-(Pyridin-4-ylmethylamino)-N-(3-(trifluoromethyl)phenyl)isothiazole-3-carboxamide (3)
+2,train,9
+2,train,N-(3-tertbutylphenyl)-4-(pyridin-4-ylmethylamino)isothiazole-3-carboxamide (11)
+2,train,14
+2,train,22
+2,train,L-alanine
+2,train,"(2E,4Z,8Z)-N-isobutyldodeca-2,4,10-triene-8 -ynamide"
+2,train,Glycylsarcosine
+2,train,Choline
+2,train,Capric acid (decanoic acid)
+2,train,Ac-Gly-Asn-Ala-NH2
+2,train,Ac-Gly-Lys-Ala-NH2
+2,train,Glutaminic Acid
+2,train,glycerol
+2,train,"8-Hydroxy-pentadeca-(9E,13Z)-dien-11-yn-2-one (2)"
+2,train,CD1
+2,train,"Pentadeca-(8Z,13Z)dien-11-yn-2-one (5)"
+2,train,"Tetradec-(8Z)-ene-11,13-diyn-2-one (6)"
+2,train,CD21
+2,train,"(2E,4Z,8Z)-N-isobutyldodeca-2,4,10-triene-8 -ynamide (4) mw = 245"
+2,train,Valproic acid
+2,train,808-Asn-Ala-NH2
+2,train,"(2E,9Z)-N-(2-methylbutyl)pentadeca-2,9-diene-12,14-diynamide"
+2,train,5-aminolevulinic acid
+2,train,Putrescine
+2,train,"453-(2E,4E,8Z,10Z)-N-Isobutyldodeca-2,4,8,10-tetraenamide (5) mw=247"
+2,train,"643-(2E,4E,8Z)-N-isobutyldodeca-2,4,8-trienamide (6) mw = 249"
+2,train,Acrylamide
+2,train,methanol
+2,train,Glutamine
+2,train,sulfamethoxazole
+2,train,KAR-2
+2,train,(-)-epicatechin
+2,train,(-)-Epicatechin (36)
+2,train,Epigallocatechin (EGC)
+2,train,"NK1NK2 analogue 105 (MDL 105,212)"
+2,train,Ac-D-phe2-(NMe-D-phe)-NH2
+2,train,Ac-D-phe-(NMe-D-phe)2-NH2 {[14C]-Acf(N-Mef)2NH2 }
+2,train,Ac-(NMe-D-phe)3-NH2
+2,train,Ac-(NMe-D-phe)3-NHMe
+2,train,4
+2,train,6
+2,train,Ac-D-phe3-NH2
+2,train,23
+2,train,MEN14732
+2,train,PNU-184435
+2,train,NK1NK2 analogue 104 (15f)
+2,train,25c
+2,train,2l
+2,train,2n
+2,train,2m
+2,train,2o
+2,train,Cepharanthine (CEP)
+2,train,2d
+2,train,2i
+2,train,Xaliproden (SR57746)
+2,train,2c
+2,train,Cycloastragenol
+2,train,Pyrilamine Maleate
+2,train,Ajmaline (AML)
+2,train,Meloxicam
+2,train,243-Famotidine
+2,train,Tiotidine
+2,train,famotidine
+2,train,tiotidine
+2,train,5'-L-phenylalanyl-cytarabine (5)
+2,train,263-Amrinone
+2,train,Alprenolol ester
+2,train,Oxprenolol ester
+2,train,oxprenolol ester
+2,train,quinidine
+2,train,Quinidine
+2,train,Spironolactone
+2,train,C
+2,train,5'-L-phenylalanyl-floxuridine
+2,train,5'-L-valyl-L-phenylalanyl-floxuridine
+2,train,Pyr-His-Pro-NH2 (TRH)
+2,train,PNU-179450
+2,train,PNU-182347
+2,train,PNU-182945
+2,train,PNU-241028
+2,train,PNU-179962
+2,train,"Maraviroc (UK-427,857)"
+2,train,170-Grepafloxacin hydrochloride (GRX)
+2,train,"2',3'-dideoxyinosine (ddI)"
+2,train,"18 (5R,S)"
+2,train,Lithospermic acid (LSA)
+2,train,cyclo[Trp-Ala-Gly-Gly-Asp-Ala]
+2,train,Chloroquine
+2,train,6MAQH (W2)
+2,train,Setrobuvir (ANA598)
+2,train,methylscopolamine
+2,train,368177
+2,train,Valsartan
+2,train,propranolol ester
+2,train,Propranolol ester
+2,train,Triazolam
+2,train,PB-26
+2,train,Teniposide
+2,train,PNU-179399
+2,train,S1
+2,train,Oxazolidin-2-one (OXa)
+2,train,OXb
+2,train,OXc
+2,train,OXd
+2,train,G6262
+2,train,1
+2,train,Sulfasalazine
+2,train,prazosin
+2,train,Prazocin
+2,train,V
+2,train,CA-Leu-Enk
+2,train,daidzin 
+2,train,1-naphthol
+2,train,naproxen
+2,train,naproxen sodium
+2,train,Amlodipine
+2,train,nitrendipine
+2,train,Nifedipine
+2,train,Nisoldipine
+2,train,Nitrendipine
+2,train,"UK 224,671"
+2,train,EF5292
+2,train,4b
+2,train,Indinavir
+2,train,N-desmethylclozapine
+2,train,Clozapine
+2,train,OXn
+2,train,Amiloride
+2,train,061-Amiloride
+2,train,CD27
+2,train,Desloratadine
+2,train,4-(quinolin-4-ylmethylamino)-N-(3-(trifluoromethyl)phenyl)isothiazole-3-carboxamide (30)
+2,train,Fluvastatin
+2,train,Chlorzoxazone
+2,train,22
+2,train,17d
+2,train,14c
+2,train,11-keto-beta-boswellic acid (KBA)
+2,train,Viloxazine
+2,train,9
+2,train,10c
+2,train,10d
+2,train,11b
+2,train,11c
+2,train,11e
+2,train,12c
+2,train,12d
+2,train,11d
+2,train,11f
+2,train,7d
+2,train,Acrivastine
+2,train,Ketamine
+2,train,Icariin
+2,train,Rebaudioside A
+2,train,60a
+2,train,67c
+2,train,Verapamil
+2,train,verapamil
+2,train,PNU-100766
+2,train,Bilirubin
+2,train,Bilirubin ditaurate
+2,train,Byankangelicol
+2,train,Proscillaridin
+2,train,Bendroflumethiazide
+2,train,Terfenadine
+2,train,fexofenadine
+2,train,fexofenadine hydrochloride
+2,train,Camazepam
+2,train,PNU200681
+2,train,Remikiren (Ro 42-5892)
+2,train,Promazine
+2,train,Promethazine
+2,train,Org 5222
+2,train,imipramine
+2,train,6
+2,train,6b
+2,train,Berberrubine (BRB)
+2,train,N-carbobenzoxy-tryptophan
+2,train,Diltiazem
+2,train,PNU200647
+2,train,PNU200603
+2,train,PNU 200603
+2,train,6
+2,train,Oxaprozin
+2,train,14
+2,train,13
+2,train,2
+2,train,E24
+2,train,Lobucavir
+2,train,65
+2,train,16
+2,train,150-Artesunate
+2,train,artesunate
+2,train,Artesunate
+2,train,Phencyclidine (PCP)
+2,train,lamotrigine
+2,train,PB-104
+2,train,PB-102
+2,train,-
+2,train,a-Zearalanol (a-ZAL)
+2,train,MEN14268
+2,train,"877-(2S,4S,5R)-2-[(4'-Chlorophenyl)-4-methyl-1,3-dioxan-5-yl]amine (5h)"
+2,train,"878-(2S,4S,5R)-2-[(4'-Nitrophenyl)-4-methyl-1,3-dioxan-5-yl]amine (5i)"
+2,train,nadalol
+2,train,Metolazone
+2,train,metolazone
+2,train,Naringin
+2,train,CF 1525 (p-Me)
+2,train,CF 1523 (p-Cl)
+2,train,CF 1517 (p-Br)
+2,train,CF 1572 (p-I)
+2,train,CF 1526 (p-OMe)
+2,train,Nelfinavir
+2,train,LY366092
+2,train,VLA-4 antagonist 2
+2,train,VLA-4 antagonist 3
+2,train,VLA-4 antagonist 4
+2,train,VLA-4 antagonist 5
+2,train,VLA-4 antagonist 6
+2,train,Diphenhydramine
+2,train,Methadone
+2,train,Thiamin (Vitamin B1)
+2,train,echinacoside
+2,train,Isoxicam
+2,train,N-Acetyl-D-phenylalanine Phenethylamide (11a)
+2,train,N-Acetyl-D-phenylalanyl-D-phenylalanine N-Methylamide (5a)
+2,train,Ac-D-phe2-NH2
+2,train,Piroxicam
+2,train,Fleroxacin
+2,train,Lomefloxacin
+2,train,Liquiritin apioside 
+2,train,-
+2,train,PNU-184470
+2,train,25a
+2,train,Laudanosine (LAU)
+2,train,Imatinib
+2,train,25
+2,train,24
+2,train,saquinavir
+2,train,Saquinavir
+2,train,187-Saquinavir
+2,train,Losartan
+2,train,11
+2,train,Flupenthixol
+2,train,EACV
+2,train,SACV
+2,train,AACV
+2,train,VACV
+2,train,IACV
+2,train,32
+2,train,N-(4-Chlorophenyl)-1-(2-(pyridin-4-yl)ethyl)-1H-pyrazole-5-carboxamide (11)
+2,train,19
+2,train,20
+2,train,N-(4-(Chlorodifluoromethoxy)phenyl)-1-(2-(pyridin-4-yl)ethyl)-1H-pyrazole-5-carboxamide (22)
+2,train,N-(4-tert-Butylphenyl)-1-(2-(pyridin-4-yl)ethyl)-1H-pyrazole-5-carboxamide (23)
+2,train,24
+2,train,Carbendazim
+2,train,Gancyclovir
+2,train,Val-ACV
+2,train,Rutaecarpine (RCP)
+2,train,Erlotinib
+2,train,SB639
+2,train,2e
+2,train,2j
+2,train,2k
+2,train,loracarbef
+2,train,N-Acetyl-D-cyclohexylalanine Phenethylamide (12)
+2,train,N-Acetyl-D-cyclohexylalanyl-D-phenylalanine N-Methylamide (6)
+2,train,CFPN-PI
+2,train,016-Ceftibuten
+2,train,Ac-C8-Enk-NH (3)
+2,train,Met-enkephalin
+2,train,[D-Ala2]Met-enkephalin
+2,train,Metkephamid
+2,train,4
+2,train,2
+2,train,Dexamethasone-?-D-glucoside
+2,train,dexamethasone b D glucoside
+2,train,dexamethasone b D glucuronide
+2,train,Dexamethasone-?-D-glucuronide
+2,train,Org 34167
+2,train,Salvianolic acid D (SAD)
+2,train,8
+2,train,10
+2,train,Evodiamine (EDM)
+2,train,Glipizide
+2,train,Tamoxifen
+2,train,Cefuroxime
+2,train,Cytarabine (1)
+2,train,5'-L-valyl-cytarabine (2)
+2,train,PB-43
+2,train,"EI analogue 102 (MDL 102,111)"
+2,train,b
+2,train,49
+2,train,48
+2,train,(Z)-19g
+2,train,(Z)-19f
+2,train,DG (13)
+2,train,PDE-310
+2,train,Ergonovine
+2,train,Biotin-Saquinavir
+2,train,ganciclovir
+2,train,Acyclovir
+2,train,indomethacin
+2,train,G6191
+2,train,G6264
+2,train,25e
+2,train,ME3229
+2,train,Glycocholate
+2,train,15j
+2,train,15f
+2,train,11
+2,train,Haloperidol
+2,train,d-praeruptorin
+2,train,DMXAA-G
+2,train,NS5B inhibitor 2
+2,train,30d
+2,train,Rifampicin
+2,train,Rhodamine 123 (Rho 123)
+2,train,8
+2,train,10
+2,train,11
+2,train,12
+2,train,14
+2,train,15
+2,train,16
+2,train,13
+2,train,PNU-179397
+2,train,Prednisolone
+2,train,677-Prednisolone
+2,train,Methylprednisolone
+2,train,prednisolone
+2,train,MEN15716
+2,train,48d
+2,train,48e
+2,train,MEN15596
+2,train,EF5289
+2,train,EF5154
+2,train,EF5170
+2,train,EF5232
+2,train,EF5242
+2,train,EF5251
+2,train,EF5265
+2,train,EF5270
+2,train,EF5278
+2,train,EF5283
+2,train,Rofecoxib
+2,train,Chlortetracycline
+2,train,Ginsenoside Rg1 (Rg1)
+2,train,XM970
+2,train,MMMDPB
+2,train,T2000
+2,train,T2007
+2,train,Fluorescein
+2,train,32h
+2,train,36
+2,train,Zolpidem
+2,train,13d
+2,train,13e
+2,train,13g
+2,train,Levofloxacin
+2,train,25f
+2,train,indobufen
+2,train,21d
+2,train,2
+2,train,21e
+2,train,Isovitexin (10)
+2,train,isovitexin 
+2,train,BILN-2061
+2,train,1
+2,train,27
+2,train,29
+2,train,21
+2,train,Lys-FITC-OCH3
+2,train,S-nitrosylated captopril (CapNO)
+2,train,679-Captopril (Cap)
+2,train,Gly-Pro (glycylproline)
+2,train,Captopril (Cap)
+2,train,Loperamide HCl
+2,train,Ouabain
+2,train,cymarin
+2,train,ouabain
+2,train,Cymarin
+2,train,Raloxifene HCl
+2,train,10b
+2,train,Talinolol
+2,train,cefazolin
+2,train,795-Coptisine chloride (COP)
+2,train,Harmol
+2,train,659-Harmane
+2,train,Bicalutamide
+2,train,Org 33062
+2,train,Org 25907
+2,train,10
+2,train,Lobucavir
+2,train,Doxorubicin
+2,train,Daunorubicin
+2,train,preladenant
+2,train,MEN15366
+2,train,Org 12962
+2,train,Olopatadine
+2,train,12q
+2,train,PNU200648
+2,train,PNU200648
+2,train,tenoxicam
+2,train,1033-Dextromethorphan (DEM)
+2,train,Dextromethorphan
+2,train,neolignan smi05
+2,train,neolignan smi08
+2,train,neolignan smi09
+2,train,neolignan smi06
+2,train,neolignan smi07
+2,train,neolignan smi10
+2,train,E15
+2,train,E17
+2,train,LY366659
+2,train,LY366799
+2,train,LY366853
+2,train,LY366856
+2,train,(E-Z)-19a
+2,train,(Z)-19c
+2,train,U-84656 (IV)
+2,train,3
+2,train,meloxicam
+2,train,882-13i
+2,train,881-13h
+2,train,Telaprevir
+2,train,VX-950
+2,train,M1
+2,train,betazolol ester
+2,train,Betaxolol ester
+2,train,Exemestane
+2,train,Sulfasalamide
+2,train,sulfasalazine
+2,train,Epimedin B
+2,train,Epimedin A
+2,train,H 95/71
+2,train,H 244/45
+2,train,D-Phe-D-Ala-D-Ser-OH
+2,train,Dexloxiglumide
+2,train,Ac-D-phe-NH2
+2,train,benzoic acid
+2,train,Methylparaben
+2,train,Propylparaben
+2,train,Butylparaben
+2,train,Octylparaben
+2,train,Guanabenz
+2,train,Methyldopa
+2,train,5-chlorosalicylic acid
+2,train,epinephrine
+2,train,N-Acetyl-D-leucyl-D-phenylalanine N-Methylamide (4)
+2,train,N-Acetylglycine Phenethylamide (7)
+2,train,N-Acetyl-D-valine Phenethylamide (9a)
+2,train,glycine-valine acyclovir
+2,train,guanabenz
+2,train,7
+2,train,6
+2,train,Tanshinol (TSL)
+2,train,Metoprolol
+2,train,acetaminophen
+2,train,N-[5-[(4-Dimethylaminobenzoyl)amino]pentyl]-2-mercaptoacetamide (S2)
+2,train,Vorinostat (SAHA-suberoylanilide hydroxamic acid)
+2,train,Sulfanilic acid
+2,train,Paraoxon
+2,train,alminoprofen
+2,train,D-Glu(OBzl)-Ala
+2,train,N-Acetyl-D-alanyl-D-phenylalanine N-Methylamide (2)
+2,train,N-Acetyl-D-valyl-D-phenylalanine N-Methylamide (3a)
+2,train,D-Ser(Bzl)-Ala
+2,train,N-Acetyl-D-alanine Phenethylamide (8)
+2,train,N-Acetyl-D-leucine Phenethylamide (10)
+2,train,174-Guanabenz
+2,train,285-Ephedrine
+2,train,Amphetamine sulfate
+2,train,OXe
+2,train,Ethylparaben
+2,train,Bisoprolol
+2,train,Methyl gallate
+2,train,Bupropion
+2,train,Epinephrine
+2,train,"(E)-4-(3,4-dimethoxyphenyl)but-3-en-1-yl linoleate (1)"
+2,train,"(E)-4-(3,4-dimethoxyphenyl)but-3-en-1-yl oleate (2)"
+2,train,Compound D
+2,train,S2
+2,train,23
+2,train,22
+2,train,24
+2,train,31
+2,train,28
+2,train,30
+2,train,32
+2,train,34
+2,train,35
+2,train,Loxoprofen
+2,train,Nicardipine
+2,train,Labetalol
+2,train,Cetirizine
+2,train,366094
+2,train,353462
+2,train,354400
+2,train,366853
+2,train,341908
+2,train,danazol
+2,train,Danazol
+2,train,fluparoxan
+2,train,Fluparoxan (GR50360A)
+2,train,12d
+2,train,247-Lobucavir
+2,train,Emetine
+2,train,hydralazine
+2,train,Lef53
+2,train,LEF553
+2,train,YH439
+2,train,codeine
+2,train,Codeine
+2,train,LY334370
+2,train,Org 13011
+2,train,"880-(2S,4S,5R)-[2-(E-Phenylvinyl)-4-methyl-1,3-dioxan-5-yl]amine (6b)"
+2,train,"879-(cis)-[2-(E-Phenylvinyl)-1,3-dioxan-5-yl]amine (6a)"
+2,train,20(S)-camptothecin (CPT)
+2,train,Chlorpheniramine
+2,train,Cisapride
+2,train,Simvastatin
+2,train,Lovastatin
+2,train,32g
+2,train,21b
+2,train,PNU-184148
+2,train,II
+2,train,XP13512
+2,train,Cycloserine
+2,train,IRR (23)
+2,train,IRR 
+2,train,Ketoconazole
+2,train,ketoconazole
+2,train,32f
+2,train,32b
+2,train,TMC435350 (32c)
+2,train,13
+2,train,13c
+2,train,Mebendazole
+2,train,EF5249
+2,train,rapamycin
+2,train,Arzanol
+2,train,Gefitinib
+2,train,Reserpine
+2,train,F-(S)-IZD
+2,train,Me-(S)-IZD
+2,train,DB377 (4)
+2,train,"DB75 [2,5-bis(4-amidinophenyl)furan]"
+2,train,5m
+2,train,"L1 (1,2-dimethyl-3 hydroxypyridin-4-one)"
+2,train,theophylline
+2,train,Pentoxifylline
+2,train,caffeine
+2,train,Cyclo(-PFwKTF-) (1)
+2,train,Cyclo(-PFwKTMeF-) (3)
+2,train,Cyclo(-PFMewKTF-) (4)
+2,train,Cyclo(-PFMewMeKTF-) (6)
+2,train,Cyclo(-PFMewKTMeF-) (7)
+2,train,PNU-93936A
+2,train,Cerulenin
+2,train,MEN14745
+2,train,45b
+2,train,CPU-86017
+2,train,cimetidine
+2,train,Cimetidine
+2,train,Tinidazole
+2,train,13
+2,train,14
+2,train,Sulfamethizole
+2,train,12
+2,train,20E 22-methyl ether (4)
+2,train,PoA 2-methyl ether (16)
+2,train,PoA 3.22-dimethyl ether (20)
+2,train,Ponasterone A (26)
+2,train,20E 22-ethyl ether (5)
+2,train,20E 22-allyl ether (7)
+2,train,20E 25-methyl ether (10)
+2,train,PoA 22-methyl ether (18)
+2,train,20-Hydroxyecdysone (25)
+2,train,Muristerone A (28)
+2,train,23
+2,train,5
+2,train,22
+2,train,Neostenine
+2,train,tenidap
+2,train,lisinopril
+2,train,Enalaprilat
+2,train,enalapril
+2,train,Lisinopril
+2,train,EF5248
+2,train,Furazolidone
+2,train,34
+2,train,31
+2,train,20
+2,train,"2-Amino-1-methyl-6-phenylimidazo-[4,5-b]pyridine (PhIP)"
+2,train,Tryptanthrin
+2,train,6
+2,train,7
+2,train,8
+2,train,9
+2,train,13
+2,train,16
+2,train,1
+2,train,2
+2,train,3
+2,train,4
+2,train,Gomisin A
+2,train,OXf
+2,train,Imidacloprid (IMI)
+2,train,XI
+2,train,XIV
+2,train,V
+2,train,VIII
+2,train,Bis(7)-tacrine (B7T)
+2,train,-
+2,train,Cerivastatin
+2,train,Sorivudine (BVaraU)
+2,train,5'-L-isoleucyl-floxuridine
+2,train,Netivudine (882C87)
+2,train,5'-L-leucyl-L-glycyl-floxuridine
+2,train,5'-L-Val-FUdR
+2,train,5'-L-Leu-FUdR
+2,train,5'-L-glycyl-L-leucyl-floxuridine
+2,train,zidovudine
+2,train,BVaraU
+2,train,5'-L-Asp-FUdR
+2,train,107-zidovudine
+2,train,3'-L-Ile-FUdR
+2,train,a-Zearalenol (a-ZEL)
+2,train,CA-DADLE
+2,train,"3-[5-(4-hydroxyphenyl)-1,3-oxazol-2-yl]phenol (18)"
+2,train,Sucrose
+2,valid,scopolamine
+2,valid,Scopolamine
+2,valid,"Dimethyl-4',4'-dimethoxy-5,6,5',6'-dimethylene dioxybiphenyl-2,2'-dicarboxylate (DDB)"
+2,valid,Bicyclol
+2,valid,vinblastine
+2,valid,NK1NK2 analogue 212 (15d)
+2,valid,943-Ketotifen fumarate (38)
+2,valid,Ketotifen
+2,valid,PB-27
+2,valid,Umbelliferone
+2,valid,Angelol-A
+2,valid,Angelol-B
+2,valid,Atorvastatin
+2,valid,403-Atorvastatin
+2,valid,Aminopyrine
+2,valid,3
+2,valid,Brucine N-oxide (B-N)
+2,valid,isoquercitrin 
+2,valid,4'-Cl BZT
+2,valid,"3',4''-diCl BZT"
+2,valid,3'-Cl BZT
+2,valid,Ajmalicine (AMC)
+2,valid,2
+2,valid,sildenafil
+2,valid,Thalidomide
+2,valid,Lactulose
+2,valid,Rivulobirin A
+2,valid,167-cephradine
+2,valid,12g
+2,valid,omeprazole
+2,valid,lansoprazole
+2,valid,DMP 851
+2,valid,9
+2,valid,32
+2,valid,"EI analogue 101 (MDL 101,146)"
+2,valid,Lamivudine
+2,valid,Celecoxib
+2,valid,4c
+2,valid,Dronedarone
+2,valid,Corynanthine (COR)
+2,valid,Yohimbine (YOH)
+2,valid,801-Yohimbine (YOH)
+2,valid,hydrocortisone
+2,valid,corticosterone
+2,valid,Corticosterone
+2,valid,desoxycarticosterone
+2,valid,Tenidap
+2,valid,Trazodone
+2,valid,a
+2,valid,Org 23366
+2,valid,"Quercetin 3,4'-diglucoside"
+2,valid,cephalexin
+2,valid,cephalexin acetylated
+2,valid,Folinic acid
+2,valid,atropine
+2,valid,Atropine
+2,valid,S-6j
+2,valid,Betaxolol
+2,valid,betazolol
+2,valid,Clarithromycin
+2,valid,erythromycin
+2,valid,SB209670
+2,valid,Cycloheximide
+2,valid,31
+2,valid,Isoliquiritigenin (35)
+2,valid,E25
+2,valid,E23
+2,valid,sulfadiazine
+2,valid,camptothecin
+2,valid,9-Nitrocamptothecin (9-NC)
+2,valid,OXh
+2,valid,BMS 189664
+2,valid,C
+2,valid,Ketanserin
+2,valid,36
+2,valid,228-Raffinose
+2,valid,raffinose
+2,valid,21c
+2,valid,-
+2,valid,-
+2,valid,-
+2,valid,-
+2,valid,-
+2,valid,-
+2,valid,-
+2,valid,-
+2,valid,Ethionamide
+2,valid,-
+2,valid,-
+2,valid,-
+2,valid,-
+3,train,368177
+3,train,Fluvastatin
+3,train,Teniposide
+3,train,12d
+3,train,Bromazepam
+3,train,11-keto-beta-boswellic acid (KBA)
+3,train,isoquercitrin 
+3,train,Piroxicam
+3,train,Metolazone
+3,train,metolazone
+3,train,Gancyclovir
+3,train,Val-ACV
+3,train,codeine
+3,train,Codeine
+3,train,Chlorpheniramine
+3,train,22
+3,train,Zolpidem
+3,train,Bis(7)-tacrine (B7T)
+3,train,Haloperidol
+3,train,PB-104
+3,train,PB-102
+3,train,F-(S)-IZD
+3,train,Me-(S)-IZD
+3,train,Byankangelicol
+3,train,Exemestane
+3,train,LY334370
+3,train,indomethacin
+3,train,Liquiritin apioside 
+3,train,6
+3,train,Lamivudine
+3,train,20(S)-camptothecin (CPT)
+3,train,16
+3,train,25e
+3,train,17d
+3,train,Labetalol
+3,train,quinidine
+3,train,Quinidine
+3,train,Spironolactone
+3,train,Indinavir
+3,train,23
+3,train,5
+3,train,22
+3,train,12g
+3,train,preladenant
+3,train,Imatinib
+3,train,MEN14732
+3,train,PNU200647
+3,train,PNU200603
+3,train,PNU 200603
+3,train,S2
+3,train,Prednisolone
+3,train,677-Prednisolone
+3,train,Methylprednisolone
+3,train,prednisolone
+3,train,atropine
+3,train,Atropine
+3,train,cyclo[Trp-Ala-Gly-Gly-Asp-Ala]
+3,train,L-alanine
+3,train,"(2E,4Z,8Z)-N-isobutyldodeca-2,4,10-triene-8 -ynamide"
+3,train,Glycylsarcosine
+3,train,Choline
+3,train,Capric acid (decanoic acid)
+3,train,Ac-Gly-Asn-Ala-NH2
+3,train,Ac-Gly-Lys-Ala-NH2
+3,train,Glutaminic Acid
+3,train,glycerol
+3,train,"8-Hydroxy-pentadeca-(9E,13Z)-dien-11-yn-2-one (2)"
+3,train,CD1
+3,train,"Pentadeca-(8Z,13Z)dien-11-yn-2-one (5)"
+3,train,"Tetradec-(8Z)-ene-11,13-diyn-2-one (6)"
+3,train,CD21
+3,train,"(2E,4Z,8Z)-N-isobutyldodeca-2,4,10-triene-8 -ynamide (4) mw = 245"
+3,train,Valproic acid
+3,train,808-Asn-Ala-NH2
+3,train,"(2E,9Z)-N-(2-methylbutyl)pentadeca-2,9-diene-12,14-diynamide"
+3,train,5-aminolevulinic acid
+3,train,Putrescine
+3,train,"453-(2E,4E,8Z,10Z)-N-Isobutyldodeca-2,4,8,10-tetraenamide (5) mw=247"
+3,train,"643-(2E,4E,8Z)-N-isobutyldodeca-2,4,8-trienamide (6) mw = 249"
+3,train,Acrylamide
+3,train,methanol
+3,train,Glutamine
+3,train,4b
+3,train,PNU200648
+3,train,PNU200648
+3,train,6
+3,train,6b
+3,train,N-desmethylclozapine
+3,train,Clozapine
+3,train,MEN15366
+3,train,Org 34167
+3,train,YH439
+3,train,Valsartan
+3,train,36
+3,train,34
+3,train,31
+3,train,20
+3,train,Gefitinib
+3,train,Doxorubicin
+3,train,Daunorubicin
+3,train,1033-Dextromethorphan (DEM)
+3,train,Dextromethorphan
+3,train,943-Ketotifen fumarate (38)
+3,train,Ketotifen
+3,train,(-)-epicatechin
+3,train,(-)-Epicatechin (36)
+3,train,Epigallocatechin (EGC)
+3,train,(Z)-19g
+3,train,(Z)-19f
+3,train,Oxaprozin
+3,train,scopolamine
+3,train,Scopolamine
+3,train,Icariin
+3,train,23
+3,train,sulfamethoxazole
+3,train,"L1 (1,2-dimethyl-3 hydroxypyridin-4-one)"
+3,train,Arzanol
+3,train,b
+3,train,hydrocortisone
+3,train,corticosterone
+3,train,Corticosterone
+3,train,desoxycarticosterone
+3,train,Dronedarone
+3,train,OXf
+3,train,Cytarabine (1)
+3,train,5'-L-valyl-cytarabine (2)
+3,train,2c
+3,train,Promazine
+3,train,Promethazine
+3,train,H 95/71
+3,train,H 244/45
+3,train,D-Phe-D-Ala-D-Ser-OH
+3,train,Dexloxiglumide
+3,train,Ac-D-phe-NH2
+3,train,benzoic acid
+3,train,Methylparaben
+3,train,Propylparaben
+3,train,Butylparaben
+3,train,Octylparaben
+3,train,Guanabenz
+3,train,Methyldopa
+3,train,5-chlorosalicylic acid
+3,train,epinephrine
+3,train,N-Acetyl-D-leucyl-D-phenylalanine N-Methylamide (4)
+3,train,N-Acetylglycine Phenethylamide (7)
+3,train,N-Acetyl-D-valine Phenethylamide (9a)
+3,train,glycine-valine acyclovir
+3,train,guanabenz
+3,train,7
+3,train,6
+3,train,Tanshinol (TSL)
+3,train,Metoprolol
+3,train,acetaminophen
+3,train,N-[5-[(4-Dimethylaminobenzoyl)amino]pentyl]-2-mercaptoacetamide (S2)
+3,train,Vorinostat (SAHA-suberoylanilide hydroxamic acid)
+3,train,Sulfanilic acid
+3,train,Paraoxon
+3,train,alminoprofen
+3,train,D-Glu(OBzl)-Ala
+3,train,N-Acetyl-D-alanyl-D-phenylalanine N-Methylamide (2)
+3,train,N-Acetyl-D-valyl-D-phenylalanine N-Methylamide (3a)
+3,train,D-Ser(Bzl)-Ala
+3,train,N-Acetyl-D-alanine Phenethylamide (8)
+3,train,N-Acetyl-D-leucine Phenethylamide (10)
+3,train,174-Guanabenz
+3,train,285-Ephedrine
+3,train,Amphetamine sulfate
+3,train,OXe
+3,train,Ethylparaben
+3,train,Bisoprolol
+3,train,Methyl gallate
+3,train,Bupropion
+3,train,Epinephrine
+3,train,"(E)-4-(3,4-dimethoxyphenyl)but-3-en-1-yl linoleate (1)"
+3,train,"(E)-4-(3,4-dimethoxyphenyl)but-3-en-1-yl oleate (2)"
+3,train,Compound D
+3,train,32h
+3,train,Rhodamine 123 (Rho 123)
+3,train,25c
+3,train,"3-[5-(4-hydroxyphenyl)-1,3-oxazol-2-yl]phenol (18)"
+3,train,MEN15353
+3,train,Alprenolol ester
+3,train,Oxprenolol ester
+3,train,oxprenolol ester
+3,train,Terfenadine
+3,train,fexofenadine
+3,train,fexofenadine hydrochloride
+3,train,11
+3,train,-
+3,train,-
+3,train,-
+3,train,-
+3,train,-
+3,train,-
+3,train,-
+3,train,-
+3,train,Ethionamide
+3,train,-
+3,train,-
+3,train,-
+3,train,-
+3,train,263-Amrinone
+3,train,Cycloheximide
+3,train,Mebendazole
+3,train,PNU-179450
+3,train,PNU-182347
+3,train,PNU-182945
+3,train,PNU-241028
+3,train,PNU-179962
+3,train,E25
+3,train,E23
+3,train,EF5289
+3,train,EF5154
+3,train,EF5170
+3,train,EF5232
+3,train,EF5242
+3,train,EF5251
+3,train,EF5265
+3,train,EF5270
+3,train,EF5278
+3,train,EF5283
+3,train,echinacoside
+3,train,CFPN-PI
+3,train,016-Ceftibuten
+3,train,Org 12962
+3,train,Erlotinib
+3,train,Org 23366
+3,train,NK1NK2 analogue 212 (15d)
+3,train,"880-(2S,4S,5R)-[2-(E-Phenylvinyl)-4-methyl-1,3-dioxan-5-yl]amine (6b)"
+3,train,"879-(cis)-[2-(E-Phenylvinyl)-1,3-dioxan-5-yl]amine (6a)"
+3,train,Chlorzoxazone
+3,train,"EI analogue 101 (MDL 101,146)"
+3,train,G6262
+3,train,DB377 (4)
+3,train,"DB75 [2,5-bis(4-amidinophenyl)furan]"
+3,train,32
+3,train,Ac-C8-Enk-NH (3)
+3,train,Met-enkephalin
+3,train,[D-Ala2]Met-enkephalin
+3,train,Metkephamid
+3,train,VLA-4 antagonist 2
+3,train,VLA-4 antagonist 3
+3,train,VLA-4 antagonist 4
+3,train,VLA-4 antagonist 5
+3,train,VLA-4 antagonist 6
+3,train,methylscopolamine
+3,train,Amiloride
+3,train,061-Amiloride
+3,train,Atorvastatin
+3,train,403-Atorvastatin
+3,train,ganciclovir
+3,train,Acyclovir
+3,train,CA-DADLE
+3,train,Ac-D-phe2-(NMe-D-phe)-NH2
+3,train,Ac-D-phe-(NMe-D-phe)2-NH2 {[14C]-Acf(N-Mef)2NH2 }
+3,train,Ac-(NMe-D-phe)3-NH2
+3,train,Ac-(NMe-D-phe)3-NHMe
+3,train,4
+3,train,6
+3,train,Ac-D-phe3-NH2
+3,train,EF5249
+3,train,Cefuroxime
+3,train,Viloxazine
+3,train,795-Coptisine chloride (COP)
+3,train,Reserpine
+3,train,E24
+3,train,1
+3,train,5'-L-phenylalanyl-cytarabine (5)
+3,train,Celecoxib
+3,train,MMMDPB
+3,train,T2000
+3,train,T2007
+3,train,Camazepam
+3,train,PNU-100766
+3,train,"Maraviroc (UK-427,857)"
+3,train,60a
+3,train,67c
+3,train,Cisapride
+3,train,EF5248
+3,train,E15
+3,train,E17
+3,train,LY366659
+3,train,LY366799
+3,train,LY366853
+3,train,LY366856
+3,train,PB-43
+3,train,tenoxicam
+3,train,lisinopril
+3,train,Enalaprilat
+3,train,enalapril
+3,train,Lisinopril
+3,train,PNU-93936A
+3,train,Telaprevir
+3,train,VX-950
+3,train,Pyr-His-Pro-NH2 (TRH)
+3,train,fluparoxan
+3,train,Fluparoxan (GR50360A)
+3,train,-
+3,train,meloxicam
+3,train,Setrobuvir (ANA598)
+3,train,Meloxicam
+3,train,imipramine
+3,train,882-13i
+3,train,881-13h
+3,train,4
+3,train,2
+3,train,a-Zearalenol (a-ZEL)
+3,train,Imidacloprid (IMI)
+3,train,21d
+3,train,2
+3,train,21e
+3,train,"EI analogue 102 (MDL 102,111)"
+3,train,hydralazine
+3,train,Diltiazem
+3,train,30d
+3,train,Thiamin (Vitamin B1)
+3,train,PNU-184148
+3,train,Folinic acid
+3,train,Lactulose
+3,train,Acrivastine
+3,train,XM970
+3,train,5'-L-phenylalanyl-floxuridine
+3,train,5'-L-valyl-L-phenylalanyl-floxuridine
+3,train,21c
+3,train,32
+3,train,N-(4-Chlorophenyl)-1-(2-(pyridin-4-yl)ethyl)-1H-pyrazole-5-carboxamide (11)
+3,train,19
+3,train,20
+3,train,N-(4-(Chlorodifluoromethoxy)phenyl)-1-(2-(pyridin-4-yl)ethyl)-1H-pyrazole-5-carboxamide (22)
+3,train,N-(4-tert-Butylphenyl)-1-(2-(pyridin-4-yl)ethyl)-1H-pyrazole-5-carboxamide (23)
+3,train,24
+3,train,2
+3,train,Xaliproden (SR57746)
+3,train,Triazolam
+3,train,DMXAA-G
+3,train,rapamycin
+3,train,Rifampicin
+3,train,Diphenhydramine
+3,train,Methadone
+3,train,Lithospermic acid (LSA)
+3,train,sildenafil
+3,train,theophylline
+3,train,Pentoxifylline
+3,train,caffeine
+3,train,Org 13011
+3,train,Glycocholate
+3,train,Emetine
+3,train,228-Raffinose
+3,train,raffinose
+3,train,prazosin
+3,train,Prazocin
+3,train,Ouabain
+3,train,cymarin
+3,train,ouabain
+3,train,Cymarin
+3,train,propranolol ester
+3,train,Propranolol ester
+3,train,3
+3,train,"Dimethyl-4',4'-dimethoxy-5,6,5',6'-dimethylene dioxybiphenyl-2,2'-dicarboxylate (DDB)"
+3,train,Bicyclol
+3,train,Flupenthixol
+3,train,65
+3,train,15j
+3,train,15f
+3,train,Ketamine
+3,train,Rivulobirin A
+3,train,11
+3,train,PNU-179399
+3,train,a-Zearalanol (a-ZAL)
+3,train,PNU-179397
+3,train,2e
+3,train,2j
+3,train,2k
+3,train,XI
+3,train,XIV
+3,train,V
+3,train,VIII
+3,train,KAR-2
+3,train,neolignan smi02
+3,train,OXh
+3,train,8
+3,train,10
+3,train,Tamoxifen
+3,train,-
+3,train,Cerivastatin
+3,train,Lys-FITC-OCH3
+3,train,neolignan smi05
+3,train,neolignan smi08
+3,train,neolignan smi09
+3,train,neolignan smi06
+3,train,neolignan smi07
+3,train,neolignan smi10
+3,train,Trazodone
+3,train,1
+3,train,Sucrose
+3,train,C
+3,train,Bicalutamide
+3,train,"18 (5R,S)"
+3,train,Berberrubine (BRB)
+3,train,4c
+3,train,Corynanthine (COR)
+3,train,Yohimbine (YOH)
+3,train,801-Yohimbine (YOH)
+3,train,Loxoprofen
+3,train,Brucine N-oxide (B-N)
+3,train,3
+3,train,Nelfinavir
+3,train,2d
+3,train,2i
+3,train,49
+3,train,48
+3,train,NK1NK2 analogue 104 (15f)
+3,train,13
+3,train,13c
+3,train,4-(Pyridin-4-ylmethylamino)-N-(3-(trifluoromethyl)phenyl)isothiazole-3-carboxamide (3)
+3,train,9
+3,train,N-(3-tertbutylphenyl)-4-(pyridin-4-ylmethylamino)isothiazole-3-carboxamide (11)
+3,train,14
+3,train,22
+3,train,NS5B inhibitor 2
+3,train,"NK1NK2 analogue 105 (MDL 105,212)"
+3,train,CPU-86017
+3,train,243-Famotidine
+3,train,Tiotidine
+3,train,famotidine
+3,train,tiotidine
+3,train,9
+3,train,10c
+3,train,10d
+3,train,11b
+3,train,11c
+3,train,11e
+3,train,12c
+3,train,12d
+3,train,11d
+3,train,11f
+3,train,7d
+3,train,Pyrilamine Maleate
+3,train,lamotrigine
+3,train,II
+3,train,XP13512
+3,train,Nicardipine
+3,train,Glipizide
+3,train,Talinolol
+3,train,13
+3,train,14
+3,train,Sulfamethizole
+3,train,12
+3,train,Isovitexin (10)
+3,train,isovitexin 
+3,train,45b
+3,train,9
+3,train,Chlortetracycline
+3,train,tenidap
+3,train,N-carbobenzoxy-tryptophan
+3,train,indobufen
+3,train,Losartan
+3,train,N-Acetyl-D-phenylalanine Phenethylamide (11a)
+3,train,N-Acetyl-D-phenylalanyl-D-phenylalanine N-Methylamide (5a)
+3,train,Ac-D-phe2-NH2
+3,train,1-naphthol
+3,train,naproxen
+3,train,naproxen sodium
+3,train,OXn
+3,train,BMS 189664
+3,train,Cepharanthine (CEP)
+3,train,Rutaecarpine (RCP)
+3,train,27
+3,train,29
+3,train,21
+3,train,Naringin
+3,train,Cyclo(-PFwKTF-) (1)
+3,train,Cyclo(-PFwKTMeF-) (3)
+3,train,Cyclo(-PFMewKTF-) (4)
+3,train,Cyclo(-PFMewMeKTF-) (6)
+3,train,Cyclo(-PFMewKTMeF-) (7)
+3,train,S-6j
+3,train,nadalol
+3,train,Ketanserin
+3,train,EF5292
+3,train,Furazolidone
+3,train,23
+3,train,22
+3,train,24
+3,train,31
+3,train,28
+3,train,30
+3,train,32
+3,train,34
+3,train,35
+3,train,Ajmalicine (AMC)
+3,train,Betaxolol
+3,train,betazolol
+3,train,Tryptanthrin
+3,train,Cetirizine
+3,train,"2-Amino-1-methyl-6-phenylimidazo-[4,5-b]pyridine (PhIP)"
+3,train,DG (13)
+3,train,4'-Cl BZT
+3,train,"3',4''-diCl BZT"
+3,train,3'-Cl BZT
+3,train,ME3229
+3,train,Clarithromycin
+3,train,erythromycin
+3,train,Isoxicam
+3,train,Lobucavir
+3,train,Gomisin A
+3,train,-
+3,train,Bendroflumethiazide
+3,train,Org 5222
+3,train,Desloratadine
+3,train,36
+3,train,(E-Z)-19a
+3,train,(Z)-19c
+3,train,PNU-184435
+3,train,32g
+3,train,25
+3,train,24
+3,train,Evodiamine (EDM)
+3,train,Levofloxacin
+3,train,G6191
+3,train,G6264
+3,train,Chloroquine
+3,train,6MAQH (W2)
+3,train,Simvastatin
+3,train,Lovastatin
+3,train,EACV
+3,train,SACV
+3,train,AACV
+3,train,VACV
+3,train,IACV
+3,train,10b
+3,train,Bilirubin
+3,train,Bilirubin ditaurate
+3,train,20E 22-methyl ether (4)
+3,train,PoA 2-methyl ether (16)
+3,train,PoA 3.22-dimethyl ether (20)
+3,train,Ponasterone A (26)
+3,train,20E 22-ethyl ether (5)
+3,train,20E 22-allyl ether (7)
+3,train,20E 25-methyl ether (10)
+3,train,PoA 22-methyl ether (18)
+3,train,20-Hydroxyecdysone (25)
+3,train,Muristerone A (28)
+3,train,vinblastine
+3,train,DMP 851
+3,train,cimetidine
+3,train,Cimetidine
+3,train,Tinidazole
+3,train,Sorivudine (BVaraU)
+3,train,5'-L-isoleucyl-floxuridine
+3,train,Netivudine (882C87)
+3,train,5'-L-leucyl-L-glycyl-floxuridine
+3,train,5'-L-Val-FUdR
+3,train,5'-L-Leu-FUdR
+3,train,5'-L-glycyl-L-leucyl-floxuridine
+3,train,zidovudine
+3,train,BVaraU
+3,train,5'-L-Asp-FUdR
+3,train,107-zidovudine
+3,train,3'-L-Ile-FUdR
+3,train,S-nitrosylated captopril (CapNO)
+3,train,679-Captopril (Cap)
+3,train,Gly-Pro (glycylproline)
+3,train,Captopril (Cap)
+3,train,Harmol
+3,train,659-Harmane
+3,train,Loperamide HCl
+3,train,loracarbef
+3,train,Cycloastragenol
+3,train,Aminopyrine
+3,train,IRR (23)
+3,train,IRR 
+3,train,Sulfasalamide
+3,train,sulfasalazine
+3,train,247-Lobucavir
+3,train,Umbelliferone
+3,train,Angelol-A
+3,train,Angelol-B
+3,train,Biotin-Saquinavir
+3,train,Lef53
+3,train,LEF553
+3,train,14c
+3,train,Sulfasalazine
+3,train,saquinavir
+3,train,Saquinavir
+3,train,187-Saquinavir
+3,train,Proscillaridin
+3,train,"2',3'-dideoxyinosine (ddI)"
+3,train,M1
+3,train,Fleroxacin
+3,train,Lomefloxacin
+3,train,Cycloserine
+3,train,daidzin 
+3,train,sulfadiazine
+3,train,25a
+3,train,cefazolin
+3,train,366094
+3,train,353462
+3,train,354400
+3,train,366853
+3,train,341908
+3,train,Laudanosine (LAU)
+3,train,MEN15716
+3,train,48d
+3,train,48e
+3,train,MEN15596
+3,train,Fluorescein
+3,train,Remikiren (Ro 42-5892)
+3,train,Tenidap
+3,train,170-Grepafloxacin hydrochloride (GRX)
+3,train,PDE-310
+3,train,8
+3,train,10
+3,train,11
+3,train,12
+3,train,14
+3,train,15
+3,train,16
+3,train,13
+3,train,Cerulenin
+3,train,Dexamethasone-?-D-glucoside
+3,train,dexamethasone b D glucoside
+3,train,dexamethasone b D glucuronide
+3,train,Dexamethasone-?-D-glucuronide
+3,train,12q
+3,train,6
+3,train,7
+3,train,8
+3,train,9
+3,train,13
+3,train,16
+3,train,1
+3,train,2
+3,train,3
+3,train,4
+3,train,LY366092
+3,train,MEN14745
+3,valid,Amlodipine
+3,valid,nitrendipine
+3,valid,Nifedipine
+3,valid,Nisoldipine
+3,valid,Nitrendipine
+3,valid,150-Artesunate
+3,valid,artesunate
+3,valid,Artesunate
+3,valid,C
+3,valid,14
+3,valid,13
+3,valid,2
+3,valid,V
+3,valid,"877-(2S,4S,5R)-2-[(4'-Chlorophenyl)-4-methyl-1,3-dioxan-5-yl]amine (5h)"
+3,valid,"878-(2S,4S,5R)-2-[(4'-Nitrophenyl)-4-methyl-1,3-dioxan-5-yl]amine (5i)"
+3,valid,PNU-184470
+3,valid,SB639
+3,valid,Thalidomide
+3,valid,Isoliquiritigenin (35)
+3,valid,CA-Leu-Enk
+3,valid,5m
+3,valid,CD27
+3,valid,"Quercetin 3,4'-diglucoside"
+3,valid,PNU200681
+3,valid,Oxazolidin-2-one (OXa)
+3,valid,OXb
+3,valid,OXc
+3,valid,OXd
+3,valid,CF 1525 (p-Me)
+3,valid,CF 1523 (p-Cl)
+3,valid,CF 1517 (p-Br)
+3,valid,CF 1572 (p-I)
+3,valid,CF 1526 (p-OMe)
+3,valid,N-Acetyl-D-cyclohexylalanine Phenethylamide (12)
+3,valid,N-Acetyl-D-cyclohexylalanyl-D-phenylalanine N-Methylamide (6)
+3,valid,Phencyclidine (PCP)
+3,valid,U-84656 (IV)
+3,valid,a
+3,valid,MEN14268
+3,valid,Lobucavir
+3,valid,Ajmaline (AML)
+3,valid,Rebaudioside A
+3,valid,SB209670
+3,valid,danazol
+3,valid,Danazol
+3,valid,167-cephradine
+3,valid,Olopatadine
+3,valid,13d
+3,valid,13e
+3,valid,13g
+3,valid,Ketoconazole
+3,valid,ketoconazole
+3,valid,Neostenine
+3,valid,Ergonovine
+3,valid,omeprazole
+3,valid,lansoprazole
+3,valid,PB-26
+3,valid,S1
+3,valid,betazolol ester
+3,valid,Betaxolol ester
+3,valid,Org 33062
+3,valid,Org 25907
+3,valid,21b
+3,valid,Carbendazim
+3,valid,Rofecoxib
+3,valid,Epimedin B
+3,valid,Epimedin A
+3,valid,Verapamil
+3,valid,verapamil
+3,valid,32f
+3,valid,32b
+3,valid,TMC435350 (32c)
+3,valid,25f
+3,valid,Salvianolic acid D (SAD)
+3,valid,BILN-2061
+3,valid,camptothecin
+3,valid,9-Nitrocamptothecin (9-NC)
+3,valid,d-praeruptorin
+3,valid,31
+3,valid,4-(quinolin-4-ylmethylamino)-N-(3-(trifluoromethyl)phenyl)isothiazole-3-carboxamide (30)
+3,valid,2l
+3,valid,2n
+3,valid,2m
+3,valid,2o
+3,valid,"UK 224,671"
+3,valid,10
+3,valid,Ginsenoside Rg1 (Rg1)
+3,valid,cephalexin
+3,valid,cephalexin acetylated
+3,valid,PB-27
+3,valid,Raloxifene HCl
+4,train,MEN15366
+4,train,PNU-184470
+4,train,3
+4,train,XM970
+4,train,Furazolidone
+4,train,Org 34167
+4,train,Olopatadine
+4,train,Cepharanthine (CEP)
+4,train,XI
+4,train,XIV
+4,train,V
+4,train,VIII
+4,train,OXn
+4,train,Indinavir
+4,train,Tryptanthrin
+4,train,Amlodipine
+4,train,nitrendipine
+4,train,Nifedipine
+4,train,Nisoldipine
+4,train,Nitrendipine
+4,train,Teniposide
+4,train,11
+4,train,PB-104
+4,train,PB-102
+4,train,cyclo[Trp-Ala-Gly-Gly-Asp-Ala]
+4,train,CF 1525 (p-Me)
+4,train,CF 1523 (p-Cl)
+4,train,CF 1517 (p-Br)
+4,train,CF 1572 (p-I)
+4,train,CF 1526 (p-OMe)
+4,train,32h
+4,train,ME3229
+4,train,PNU200681
+4,train,30d
+4,train,tenoxicam
+4,train,4c
+4,train,Rhodamine 123 (Rho 123)
+4,train,4'-Cl BZT
+4,train,"3',4''-diCl BZT"
+4,train,3'-Cl BZT
+4,train,nadalol
+4,train,a
+4,train,E15
+4,train,E17
+4,train,LY366659
+4,train,LY366799
+4,train,LY366853
+4,train,LY366856
+4,train,Proscillaridin
+4,train,Bicalutamide
+4,train,6
+4,train,7
+4,train,8
+4,train,9
+4,train,13
+4,train,16
+4,train,1
+4,train,2
+4,train,3
+4,train,4
+4,train,Simvastatin
+4,train,Lovastatin
+4,train,methylscopolamine
+4,train,tenidap
+4,train,Cycloastragenol
+4,train,N-carbobenzoxy-tryptophan
+4,train,36
+4,train,31
+4,train,Bendroflumethiazide
+4,train,Diltiazem
+4,train,Phencyclidine (PCP)
+4,train,NK1NK2 analogue 104 (15f)
+4,train,lisinopril
+4,train,Enalaprilat
+4,train,enalapril
+4,train,Lisinopril
+4,train,propranolol ester
+4,train,Propranolol ester
+4,train,Brucine N-oxide (B-N)
+4,train,Lithospermic acid (LSA)
+4,train,Cetirizine
+4,train,Cycloheximide
+4,train,EF5292
+4,train,4b
+4,train,hydralazine
+4,train,Isoliquiritigenin (35)
+4,train,5'-L-phenylalanyl-floxuridine
+4,train,5'-L-valyl-L-phenylalanyl-floxuridine
+4,train,13d
+4,train,13e
+4,train,13g
+4,train,Ouabain
+4,train,cymarin
+4,train,ouabain
+4,train,Cymarin
+4,train,S1
+4,train,Desloratadine
+4,train,"877-(2S,4S,5R)-2-[(4'-Chlorophenyl)-4-methyl-1,3-dioxan-5-yl]amine (5h)"
+4,train,"878-(2S,4S,5R)-2-[(4'-Nitrophenyl)-4-methyl-1,3-dioxan-5-yl]amine (5i)"
+4,train,12d
+4,train,b
+4,train,11-keto-beta-boswellic acid (KBA)
+4,train,Isovitexin (10)
+4,train,isovitexin 
+4,train,Dexamethasone-?-D-glucoside
+4,train,dexamethasone b D glucoside
+4,train,dexamethasone b D glucuronide
+4,train,Dexamethasone-?-D-glucuronide
+4,train,Terfenadine
+4,train,fexofenadine
+4,train,fexofenadine hydrochloride
+4,train,795-Coptisine chloride (COP)
+4,train,Viloxazine
+4,train,EF5289
+4,train,EF5154
+4,train,EF5170
+4,train,EF5232
+4,train,EF5242
+4,train,EF5251
+4,train,EF5265
+4,train,EF5270
+4,train,EF5278
+4,train,EF5283
+4,train,14c
+4,train,13
+4,train,13c
+4,train,d-praeruptorin
+4,train,Corynanthine (COR)
+4,train,Yohimbine (YOH)
+4,train,801-Yohimbine (YOH)
+4,train,Cerulenin
+4,train,DG (13)
+4,train,1-naphthol
+4,train,naproxen
+4,train,naproxen sodium
+4,train,cimetidine
+4,train,Cimetidine
+4,train,Tinidazole
+4,train,fluparoxan
+4,train,Fluparoxan (GR50360A)
+4,train,Loxoprofen
+4,train,Trazodone
+4,train,943-Ketotifen fumarate (38)
+4,train,Ketotifen
+4,train,Lobucavir
+4,train,49
+4,train,48
+4,train,Imidacloprid (IMI)
+4,train,C
+4,train,"L1 (1,2-dimethyl-3 hydroxypyridin-4-one)"
+4,train,EF5249
+4,train,sildenafil
+4,train,"Maraviroc (UK-427,857)"
+4,train,Isoxicam
+4,train,S2
+4,train,25c
+4,train,L-alanine
+4,train,"(2E,4Z,8Z)-N-isobutyldodeca-2,4,10-triene-8 -ynamide"
+4,train,Glycylsarcosine
+4,train,Choline
+4,train,Capric acid (decanoic acid)
+4,train,Ac-Gly-Asn-Ala-NH2
+4,train,Ac-Gly-Lys-Ala-NH2
+4,train,Glutaminic Acid
+4,train,glycerol
+4,train,"8-Hydroxy-pentadeca-(9E,13Z)-dien-11-yn-2-one (2)"
+4,train,CD1
+4,train,"Pentadeca-(8Z,13Z)dien-11-yn-2-one (5)"
+4,train,"Tetradec-(8Z)-ene-11,13-diyn-2-one (6)"
+4,train,CD21
+4,train,"(2E,4Z,8Z)-N-isobutyldodeca-2,4,10-triene-8 -ynamide (4) mw = 245"
+4,train,Valproic acid
+4,train,808-Asn-Ala-NH2
+4,train,"(2E,9Z)-N-(2-methylbutyl)pentadeca-2,9-diene-12,14-diynamide"
+4,train,5-aminolevulinic acid
+4,train,Putrescine
+4,train,"453-(2E,4E,8Z,10Z)-N-Isobutyldodeca-2,4,8,10-tetraenamide (5) mw=247"
+4,train,"643-(2E,4E,8Z)-N-isobutyldodeca-2,4,8-trienamide (6) mw = 249"
+4,train,Acrylamide
+4,train,methanol
+4,train,Glutamine
+4,train,daidzin 
+4,train,U-84656 (IV)
+4,train,Salvianolic acid D (SAD)
+4,train,Fluvastatin
+4,train,12g
+4,train,Cycloserine
+4,train,Pyr-His-Pro-NH2 (TRH)
+4,train,Org 23366
+4,train,16
+4,train,CA-Leu-Enk
+4,train,Ac-C8-Enk-NH (3)
+4,train,Met-enkephalin
+4,train,[D-Ala2]Met-enkephalin
+4,train,Metkephamid
+4,train,Dronedarone
+4,train,1
+4,train,PDE-310
+4,train,YH439
+4,train,167-cephradine
+4,train,lamotrigine
+4,train,S-6j
+4,train,E24
+4,train,isoquercitrin 
+4,train,C
+4,train,Imatinib
+4,train,meloxicam
+4,train,Harmol
+4,train,659-Harmane
+4,train,theophylline
+4,train,Pentoxifylline
+4,train,caffeine
+4,train,Atorvastatin
+4,train,403-Atorvastatin
+4,train,20(S)-camptothecin (CPT)
+4,train,14
+4,train,13
+4,train,2
+4,train,Rutaecarpine (RCP)
+4,train,17d
+4,train,Prednisolone
+4,train,677-Prednisolone
+4,train,Methylprednisolone
+4,train,prednisolone
+4,train,PB-26
+4,train,Org 13011
+4,train,Ketamine
+4,train,(E-Z)-19a
+4,train,(Z)-19c
+4,train,Bromazepam
+4,train,-
+4,train,-
+4,train,-
+4,train,-
+4,train,-
+4,train,-
+4,train,-
+4,train,-
+4,train,Ethionamide
+4,train,-
+4,train,-
+4,train,-
+4,train,-
+4,train,PNU200648
+4,train,PNU200648
+4,train,Emetine
+4,train,BILN-2061
+4,train,150-Artesunate
+4,train,artesunate
+4,train,Artesunate
+4,train,Lamivudine
+4,train,N-desmethylclozapine
+4,train,Clozapine
+4,train,G6191
+4,train,G6264
+4,train,"EI analogue 102 (MDL 102,111)"
+4,train,Nelfinavir
+4,train,PB-27
+4,train,Gefitinib
+4,train,BMS 189664
+4,train,5m
+4,train,indobufen
+4,train,Telaprevir
+4,train,VX-950
+4,train,Labetalol
+4,train,Glycocholate
+4,train,H 95/71
+4,train,H 244/45
+4,train,D-Phe-D-Ala-D-Ser-OH
+4,train,Dexloxiglumide
+4,train,Ac-D-phe-NH2
+4,train,benzoic acid
+4,train,Methylparaben
+4,train,Propylparaben
+4,train,Butylparaben
+4,train,Octylparaben
+4,train,Guanabenz
+4,train,Methyldopa
+4,train,5-chlorosalicylic acid
+4,train,epinephrine
+4,train,N-Acetyl-D-leucyl-D-phenylalanine N-Methylamide (4)
+4,train,N-Acetylglycine Phenethylamide (7)
+4,train,N-Acetyl-D-valine Phenethylamide (9a)
+4,train,glycine-valine acyclovir
+4,train,guanabenz
+4,train,7
+4,train,6
+4,train,Tanshinol (TSL)
+4,train,Metoprolol
+4,train,acetaminophen
+4,train,N-[5-[(4-Dimethylaminobenzoyl)amino]pentyl]-2-mercaptoacetamide (S2)
+4,train,Vorinostat (SAHA-suberoylanilide hydroxamic acid)
+4,train,Sulfanilic acid
+4,train,Paraoxon
+4,train,alminoprofen
+4,train,D-Glu(OBzl)-Ala
+4,train,N-Acetyl-D-alanyl-D-phenylalanine N-Methylamide (2)
+4,train,N-Acetyl-D-valyl-D-phenylalanine N-Methylamide (3a)
+4,train,D-Ser(Bzl)-Ala
+4,train,N-Acetyl-D-alanine Phenethylamide (8)
+4,train,N-Acetyl-D-leucine Phenethylamide (10)
+4,train,174-Guanabenz
+4,train,285-Ephedrine
+4,train,Amphetamine sulfate
+4,train,OXe
+4,train,Ethylparaben
+4,train,Bisoprolol
+4,train,Methyl gallate
+4,train,Bupropion
+4,train,Epinephrine
+4,train,"(E)-4-(3,4-dimethoxyphenyl)but-3-en-1-yl linoleate (1)"
+4,train,"(E)-4-(3,4-dimethoxyphenyl)but-3-en-1-yl oleate (2)"
+4,train,Compound D
+4,train,"2',3'-dideoxyinosine (ddI)"
+4,train,Talinolol
+4,train,NK1NK2 analogue 212 (15d)
+4,train,Rifampicin
+4,train,-
+4,train,Cerivastatin
+4,train,omeprazole
+4,train,lansoprazole
+4,train,KAR-2
+4,train,PNU-179397
+4,train,Flupenthixol
+4,train,danazol
+4,train,Danazol
+4,train,3
+4,train,Exemestane
+4,train,betazolol ester
+4,train,Betaxolol ester
+4,train,Glipizide
+4,train,MEN14732
+4,train,scopolamine
+4,train,Scopolamine
+4,train,N-Acetyl-D-phenylalanine Phenethylamide (11a)
+4,train,N-Acetyl-D-phenylalanyl-D-phenylalanine N-Methylamide (5a)
+4,train,Ac-D-phe2-NH2
+4,train,F-(S)-IZD
+4,train,Me-(S)-IZD
+4,train,CD27
+4,train,SB639
+4,train,Byankangelicol
+4,train,"3-[5-(4-hydroxyphenyl)-1,3-oxazol-2-yl]phenol (18)"
+4,train,10
+4,train,"UK 224,671"
+4,train,1033-Dextromethorphan (DEM)
+4,train,Dextromethorphan
+4,train,23
+4,train,Camazepam
+4,train,Bis(7)-tacrine (B7T)
+4,train,Valsartan
+4,train,a-Zearalenol (a-ZEL)
+4,train,Doxorubicin
+4,train,Daunorubicin
+4,train,60a
+4,train,67c
+4,train,neolignan smi05
+4,train,neolignan smi08
+4,train,neolignan smi09
+4,train,neolignan smi06
+4,train,neolignan smi07
+4,train,neolignan smi10
+4,train,Betaxolol
+4,train,betazolol
+4,train,"880-(2S,4S,5R)-[2-(E-Phenylvinyl)-4-methyl-1,3-dioxan-5-yl]amine (6b)"
+4,train,"879-(cis)-[2-(E-Phenylvinyl)-1,3-dioxan-5-yl]amine (6a)"
+4,train,34
+4,train,31
+4,train,20
+4,train,21d
+4,train,2
+4,train,21e
+4,train,Laudanosine (LAU)
+4,train,Rebaudioside A
+4,train,Fleroxacin
+4,train,Lomefloxacin
+4,train,Org 33062
+4,train,Org 25907
+4,train,Metolazone
+4,train,metolazone
+4,train,27
+4,train,29
+4,train,21
+4,train,32f
+4,train,32b
+4,train,TMC435350 (32c)
+4,train,Fluorescein
+4,train,MMMDPB
+4,train,T2000
+4,train,T2007
+4,train,Ginsenoside Rg1 (Rg1)
+4,train,Cyclo(-PFwKTF-) (1)
+4,train,Cyclo(-PFwKTMeF-) (3)
+4,train,Cyclo(-PFMewKTF-) (4)
+4,train,Cyclo(-PFMewMeKTF-) (6)
+4,train,Cyclo(-PFMewKTMeF-) (7)
+4,train,25e
+4,train,Oxaprozin
+4,train,a-Zearalanol (a-ZAL)
+4,train,CPU-86017
+4,train,NS5B inhibitor 2
+4,train,Cefuroxime
+4,train,Aminopyrine
+4,train,DMXAA-G
+4,train,Xaliproden (SR57746)
+4,train,Chlorzoxazone
+4,train,EACV
+4,train,SACV
+4,train,AACV
+4,train,VACV
+4,train,IACV
+4,train,Amiloride
+4,train,061-Amiloride
+4,train,(-)-epicatechin
+4,train,(-)-Epicatechin (36)
+4,train,Epigallocatechin (EGC)
+4,train,4-(Pyridin-4-ylmethylamino)-N-(3-(trifluoromethyl)phenyl)isothiazole-3-carboxamide (3)
+4,train,9
+4,train,N-(3-tertbutylphenyl)-4-(pyridin-4-ylmethylamino)isothiazole-3-carboxamide (11)
+4,train,14
+4,train,22
+4,train,Org 5222
+4,train,PNU-184148
+4,train,neolignan smi02
+4,train,Ketoconazole
+4,train,ketoconazole
+4,train,4-(quinolin-4-ylmethylamino)-N-(3-(trifluoromethyl)phenyl)isothiazole-3-carboxamide (30)
+4,train,imipramine
+4,train,11
+4,train,2e
+4,train,2j
+4,train,2k
+4,train,echinacoside
+4,train,-
+4,train,366094
+4,train,353462
+4,train,354400
+4,train,366853
+4,train,341908
+4,train,Rivulobirin A
+4,train,4
+4,train,2
+4,train,Losartan
+4,train,sulfamethoxazole
+4,train,Triazolam
+4,train,Berberrubine (BRB)
+4,train,cefazolin
+4,train,Carbendazim
+4,train,Gomisin A
+4,train,M1
+4,train,Chlortetracycline
+4,train,II
+4,train,XP13512
+4,train,Umbelliferone
+4,train,Angelol-A
+4,train,Angelol-B
+4,train,Tamoxifen
+4,train,Gancyclovir
+4,train,Val-ACV
+4,train,DB377 (4)
+4,train,"DB75 [2,5-bis(4-amidinophenyl)furan]"
+4,train,PNU-184435
+4,train,"18 (5R,S)"
+4,train,228-Raffinose
+4,train,raffinose
+4,train,Nicardipine
+4,train,Tenidap
+4,train,IRR (23)
+4,train,IRR 
+4,train,MEN14268
+4,train,Cisapride
+4,train,saquinavir
+4,train,Saquinavir
+4,train,187-Saquinavir
+4,train,Pyrilamine Maleate
+4,train,sulfadiazine
+4,train,25a
+4,train,prazosin
+4,train,Prazocin
+4,train,15j
+4,train,15f
+4,train,cephalexin
+4,train,cephalexin acetylated
+4,train,Chlorpheniramine
+4,train,Cytarabine (1)
+4,train,5'-L-valyl-cytarabine (2)
+4,train,CFPN-PI
+4,train,016-Ceftibuten
+4,train,Alprenolol ester
+4,train,Oxprenolol ester
+4,train,oxprenolol ester
+4,train,LY334370
+4,train,Ketanserin
+4,train,OXf
+4,train,8
+4,train,10
+4,train,11
+4,train,12
+4,train,14
+4,train,15
+4,train,16
+4,train,13
+4,train,hydrocortisone
+4,train,corticosterone
+4,train,Corticosterone
+4,train,desoxycarticosterone
+4,train,Reserpine
+4,train,32
+4,train,SB209670
+4,train,65
+4,train,OXh
+4,train,Thalidomide
+4,train,Icariin
+4,train,"Quercetin 3,4'-diglucoside"
+4,train,Epimedin B
+4,train,Epimedin A
+4,train,Sulfasalamide
+4,train,sulfasalazine
+4,train,10b
+4,train,Biotin-Saquinavir
+4,train,Org 12962
+4,train,(Z)-19g
+4,train,(Z)-19f
+4,train,6
+4,train,6b
+4,train,vinblastine
+4,train,882-13i
+4,train,881-13h
+4,train,MEN15716
+4,train,48d
+4,train,48e
+4,train,MEN15596
+4,train,6
+4,train,codeine
+4,train,Codeine
+4,train,quinidine
+4,train,Quinidine
+4,train,Spironolactone
+4,train,Ajmaline (AML)
+4,train,Neostenine
+4,train,-
+4,train,32g
+4,train,9
+4,train,S-nitrosylated captopril (CapNO)
+4,train,679-Captopril (Cap)
+4,train,Gly-Pro (glycylproline)
+4,train,Captopril (Cap)
+4,train,Promazine
+4,train,Promethazine
+4,train,Raloxifene HCl
+4,train,Sorivudine (BVaraU)
+4,train,5'-L-isoleucyl-floxuridine
+4,train,Netivudine (882C87)
+4,train,5'-L-leucyl-L-glycyl-floxuridine
+4,train,5'-L-Val-FUdR
+4,train,5'-L-Leu-FUdR
+4,train,5'-L-glycyl-L-leucyl-floxuridine
+4,train,zidovudine
+4,train,BVaraU
+4,train,5'-L-Asp-FUdR
+4,train,107-zidovudine
+4,train,3'-L-Ile-FUdR
+4,train,VLA-4 antagonist 2
+4,train,VLA-4 antagonist 3
+4,train,VLA-4 antagonist 4
+4,train,VLA-4 antagonist 5
+4,train,VLA-4 antagonist 6
+4,train,1
+4,train,Setrobuvir (ANA598)
+4,train,Ac-D-phe2-(NMe-D-phe)-NH2
+4,train,Ac-D-phe-(NMe-D-phe)2-NH2 {[14C]-Acf(N-Mef)2NH2 }
+4,train,Ac-(NMe-D-phe)3-NH2
+4,train,Ac-(NMe-D-phe)3-NHMe
+4,train,4
+4,train,6
+4,train,Ac-D-phe3-NH2
+4,train,Chloroquine
+4,train,6MAQH (W2)
+4,train,"2-Amino-1-methyl-6-phenylimidazo-[4,5-b]pyridine (PhIP)"
+4,train,PB-43
+4,train,V
+4,train,indomethacin
+4,train,"NK1NK2 analogue 105 (MDL 105,212)"
+4,train,2c
+4,train,243-Famotidine
+4,train,Tiotidine
+4,train,famotidine
+4,train,tiotidine
+4,train,5'-L-phenylalanyl-cytarabine (5)
+4,train,Ergonovine
+4,train,Ajmalicine (AMC)
+4,train,Zolpidem
+4,train,Thiamin (Vitamin B1)
+4,train,Lys-FITC-OCH3
+4,train,ganciclovir
+4,train,Acyclovir
+4,train,12q
+4,train,45b
+4,train,2
+4,train,Sucrose
+4,train,Loperamide HCl
+4,train,Haloperidol
+4,train,loracarbef
+4,train,25f
+4,train,MEN15353
+4,train,Verapamil
+4,train,verapamil
+4,train,"Dimethyl-4',4'-dimethoxy-5,6,5',6'-dimethylene dioxybiphenyl-2,2'-dicarboxylate (DDB)"
+4,train,Bicyclol
+4,train,9
+4,train,10c
+4,train,10d
+4,train,11b
+4,train,11c
+4,train,11e
+4,train,12c
+4,train,12d
+4,train,11d
+4,train,11f
+4,train,7d
+4,train,Clarithromycin
+4,train,erythromycin
+4,train,32
+4,train,N-(4-Chlorophenyl)-1-(2-(pyridin-4-yl)ethyl)-1H-pyrazole-5-carboxamide (11)
+4,train,19
+4,train,20
+4,train,N-(4-(Chlorodifluoromethoxy)phenyl)-1-(2-(pyridin-4-yl)ethyl)-1H-pyrazole-5-carboxamide (22)
+4,train,N-(4-tert-Butylphenyl)-1-(2-(pyridin-4-yl)ethyl)-1H-pyrazole-5-carboxamide (23)
+4,train,24
+4,train,Liquiritin apioside 
+4,train,Celecoxib
+4,train,G6262
+4,train,8
+4,train,10
+4,train,atropine
+4,train,Atropine
+4,train,PNU-93936A
+4,valid,LY366092
+4,valid,Levofloxacin
+4,valid,Bilirubin
+4,valid,Bilirubin ditaurate
+4,valid,2d
+4,valid,2i
+4,valid,Erlotinib
+4,valid,Sulfasalazine
+4,valid,Remikiren (Ro 42-5892)
+4,valid,2l
+4,valid,2n
+4,valid,2m
+4,valid,2o
+4,valid,PNU-179450
+4,valid,PNU-182347
+4,valid,PNU-182945
+4,valid,PNU-241028
+4,valid,PNU-179962
+4,valid,368177
+4,valid,CA-DADLE
+4,valid,MEN14745
+4,valid,N-Acetyl-D-cyclohexylalanine Phenethylamide (12)
+4,valid,N-Acetyl-D-cyclohexylalanyl-D-phenylalanine N-Methylamide (6)
+4,valid,170-Grepafloxacin hydrochloride (GRX)
+4,valid,camptothecin
+4,valid,9-Nitrocamptothecin (9-NC)
+4,valid,22
+4,valid,Folinic acid
+4,valid,PNU-179399
+4,valid,Rofecoxib
+4,valid,20E 22-methyl ether (4)
+4,valid,PoA 2-methyl ether (16)
+4,valid,PoA 3.22-dimethyl ether (20)
+4,valid,Ponasterone A (26)
+4,valid,20E 22-ethyl ether (5)
+4,valid,20E 22-allyl ether (7)
+4,valid,20E 25-methyl ether (10)
+4,valid,PoA 22-methyl ether (18)
+4,valid,20-Hydroxyecdysone (25)
+4,valid,Muristerone A (28)
+4,valid,"EI analogue 101 (MDL 101,146)"
+4,valid,PNU200647
+4,valid,PNU200603
+4,valid,PNU 200603
+4,valid,Mebendazole
+4,valid,23
+4,valid,22
+4,valid,24
+4,valid,31
+4,valid,28
+4,valid,30
+4,valid,32
+4,valid,34
+4,valid,35
+4,valid,Diphenhydramine
+4,valid,Methadone
+4,valid,Piroxicam
+4,valid,PNU-100766
+4,valid,Evodiamine (EDM)
+4,valid,Arzanol
+4,valid,Lactulose
+4,valid,preladenant
+4,valid,36
+4,valid,Meloxicam
+4,valid,Acrivastine
+4,valid,EF5248
+4,valid,rapamycin
+4,valid,Naringin
+4,valid,21b
+4,valid,263-Amrinone
+4,valid,247-Lobucavir
+4,valid,Lef53
+4,valid,LEF553
+4,valid,21c
+4,valid,25
+4,valid,24
+4,valid,23
+4,valid,5
+4,valid,22
+4,valid,Oxazolidin-2-one (OXa)
+4,valid,OXb
+4,valid,OXc
+4,valid,OXd
+4,valid,E25
+4,valid,E23
+4,valid,Lobucavir
+4,valid,13
+4,valid,14
+4,valid,Sulfamethizole
+4,valid,12
+4,valid,DMP 851
+5,train,Haloperidol
+5,train,Rebaudioside A
+5,train,YH439
+5,train,Terfenadine
+5,train,fexofenadine
+5,train,fexofenadine hydrochloride
+5,train,"2',3'-dideoxyinosine (ddI)"
+5,train,"877-(2S,4S,5R)-2-[(4'-Chlorophenyl)-4-methyl-1,3-dioxan-5-yl]amine (5h)"
+5,train,"878-(2S,4S,5R)-2-[(4'-Nitrophenyl)-4-methyl-1,3-dioxan-5-yl]amine (5i)"
+5,train,Rofecoxib
+5,train,PNU-100766
+5,train,243-Famotidine
+5,train,Tiotidine
+5,train,famotidine
+5,train,tiotidine
+5,train,Mebendazole
+5,train,E15
+5,train,E17
+5,train,LY366659
+5,train,LY366799
+5,train,LY366853
+5,train,LY366856
+5,train,MEN15366
+5,train,neolignan smi02
+5,train,PB-43
+5,train,Promazine
+5,train,Promethazine
+5,train,8
+5,train,10
+5,train,11
+5,train,12
+5,train,14
+5,train,15
+5,train,16
+5,train,13
+5,train,6
+5,train,7
+5,train,8
+5,train,9
+5,train,13
+5,train,16
+5,train,1
+5,train,2
+5,train,3
+5,train,4
+5,train,Gancyclovir
+5,train,Val-ACV
+5,train,BMS 189664
+5,train,danazol
+5,train,Danazol
+5,train,Bilirubin
+5,train,Bilirubin ditaurate
+5,train,Ac-D-phe2-(NMe-D-phe)-NH2
+5,train,Ac-D-phe-(NMe-D-phe)2-NH2 {[14C]-Acf(N-Mef)2NH2 }
+5,train,Ac-(NMe-D-phe)3-NH2
+5,train,Ac-(NMe-D-phe)3-NHMe
+5,train,4
+5,train,6
+5,train,Ac-D-phe3-NH2
+5,train,EF5249
+5,train,OXn
+5,train,Diphenhydramine
+5,train,Methadone
+5,train,Celecoxib
+5,train,Bis(7)-tacrine (B7T)
+5,train,Byankangelicol
+5,train,Arzanol
+5,train,Piroxicam
+5,train,Neostenine
+5,train,CA-Leu-Enk
+5,train,MEN14732
+5,train,Isoxicam
+5,train,247-Lobucavir
+5,train,Liquiritin apioside 
+5,train,MEN14745
+5,train,CF 1525 (p-Me)
+5,train,CF 1523 (p-Cl)
+5,train,CF 1517 (p-Br)
+5,train,CF 1572 (p-I)
+5,train,CF 1526 (p-OMe)
+5,train,Ginsenoside Rg1 (Rg1)
+5,train,1
+5,train,-
+5,train,21d
+5,train,2
+5,train,21e
+5,train,Meloxicam
+5,train,170-Grepafloxacin hydrochloride (GRX)
+5,train,"Maraviroc (UK-427,857)"
+5,train,Chlorzoxazone
+5,train,sildenafil
+5,train,Epimedin B
+5,train,Epimedin A
+5,train,Lef53
+5,train,LEF553
+5,train,10b
+5,train,Isovitexin (10)
+5,train,isovitexin 
+5,train,Evodiamine (EDM)
+5,train,EF5248
+5,train,C
+5,train,4'-Cl BZT
+5,train,"3',4''-diCl BZT"
+5,train,3'-Cl BZT
+5,train,Sorivudine (BVaraU)
+5,train,5'-L-isoleucyl-floxuridine
+5,train,Netivudine (882C87)
+5,train,5'-L-leucyl-L-glycyl-floxuridine
+5,train,5'-L-Val-FUdR
+5,train,5'-L-Leu-FUdR
+5,train,5'-L-glycyl-L-leucyl-floxuridine
+5,train,zidovudine
+5,train,BVaraU
+5,train,5'-L-Asp-FUdR
+5,train,107-zidovudine
+5,train,3'-L-Ile-FUdR
+5,train,Laudanosine (LAU)
+5,train,G6191
+5,train,G6264
+5,train,VLA-4 antagonist 2
+5,train,VLA-4 antagonist 3
+5,train,VLA-4 antagonist 4
+5,train,VLA-4 antagonist 5
+5,train,VLA-4 antagonist 6
+5,train,scopolamine
+5,train,Scopolamine
+5,train,Talinolol
+5,train,Verapamil
+5,train,verapamil
+5,train,M1
+5,train,sulfadiazine
+5,train,b
+5,train,a
+5,train,(-)-epicatechin
+5,train,(-)-Epicatechin (36)
+5,train,Epigallocatechin (EGC)
+5,train,Umbelliferone
+5,train,Angelol-A
+5,train,Angelol-B
+5,train,6
+5,train,CD27
+5,train,23
+5,train,5
+5,train,22
+5,train,PNU200648
+5,train,PNU200648
+5,train,indomethacin
+5,train,MEN15716
+5,train,48d
+5,train,48e
+5,train,MEN15596
+5,train,OXf
+5,train,V
+5,train,Ketoconazole
+5,train,ketoconazole
+5,train,Cefuroxime
+5,train,34
+5,train,31
+5,train,20
+5,train,N-Acetyl-D-cyclohexylalanine Phenethylamide (12)
+5,train,N-Acetyl-D-cyclohexylalanyl-D-phenylalanine N-Methylamide (6)
+5,train,12g
+5,train,"EI analogue 102 (MDL 102,111)"
+5,train,PNU200647
+5,train,PNU200603
+5,train,PNU 200603
+5,train,12d
+5,train,Pyr-His-Pro-NH2 (TRH)
+5,train,32
+5,train,N-(4-Chlorophenyl)-1-(2-(pyridin-4-yl)ethyl)-1H-pyrazole-5-carboxamide (11)
+5,train,19
+5,train,20
+5,train,N-(4-(Chlorodifluoromethoxy)phenyl)-1-(2-(pyridin-4-yl)ethyl)-1H-pyrazole-5-carboxamide (22)
+5,train,N-(4-tert-Butylphenyl)-1-(2-(pyridin-4-yl)ethyl)-1H-pyrazole-5-carboxamide (23)
+5,train,24
+5,train,65
+5,train,echinacoside
+5,train,2c
+5,train,Rhodamine 123 (Rho 123)
+5,train,Setrobuvir (ANA598)
+5,train,795-Coptisine chloride (COP)
+5,train,C
+5,train,45b
+5,train,Org 33062
+5,train,Org 25907
+5,train,rapamycin
+5,train,CFPN-PI
+5,train,016-Ceftibuten
+5,train,Ketamine
+5,train,31
+5,train,quinidine
+5,train,Quinidine
+5,train,Spironolactone
+5,train,Chlorpheniramine
+5,train,Xaliproden (SR57746)
+5,train,Levofloxacin
+5,train,25e
+5,train,4-(Pyridin-4-ylmethylamino)-N-(3-(trifluoromethyl)phenyl)isothiazole-3-carboxamide (3)
+5,train,9
+5,train,N-(3-tertbutylphenyl)-4-(pyridin-4-ylmethylamino)isothiazole-3-carboxamide (11)
+5,train,14
+5,train,22
+5,train,366094
+5,train,353462
+5,train,354400
+5,train,366853
+5,train,341908
+5,train,SB639
+5,train,-
+5,train,Cerivastatin
+5,train,2e
+5,train,2j
+5,train,2k
+5,train,Alprenolol ester
+5,train,Oxprenolol ester
+5,train,oxprenolol ester
+5,train,Ac-C8-Enk-NH (3)
+5,train,Met-enkephalin
+5,train,[D-Ala2]Met-enkephalin
+5,train,Metkephamid
+5,train,lamotrigine
+5,train,17d
+5,train,a-Zearalanol (a-ZAL)
+5,train,Ajmaline (AML)
+5,train,Teniposide
+5,train,Org 23366
+5,train,Rutaecarpine (RCP)
+5,train,13
+5,train,14
+5,train,Sulfamethizole
+5,train,12
+5,train,Trazodone
+5,train,neolignan smi05
+5,train,neolignan smi08
+5,train,neolignan smi09
+5,train,neolignan smi06
+5,train,neolignan smi07
+5,train,neolignan smi10
+5,train,23
+5,train,Gefitinib
+5,train,Amlodipine
+5,train,nitrendipine
+5,train,Nifedipine
+5,train,Nisoldipine
+5,train,Nitrendipine
+5,train,Tryptanthrin
+5,train,Harmol
+5,train,659-Harmane
+5,train,25
+5,train,24
+5,train,prazosin
+5,train,Prazocin
+5,train,atropine
+5,train,Atropine
+5,train,Acrivastine
+5,train,Olopatadine
+5,train,Nelfinavir
+5,train,PB-26
+5,train,150-Artesunate
+5,train,artesunate
+5,train,Artesunate
+5,train,Fleroxacin
+5,train,Lomefloxacin
+5,train,Biotin-Saquinavir
+5,train,EF5289
+5,train,EF5154
+5,train,EF5170
+5,train,EF5232
+5,train,EF5242
+5,train,EF5251
+5,train,EF5265
+5,train,EF5270
+5,train,EF5278
+5,train,EF5283
+5,train,indobufen
+5,train,4b
+5,train,betazolol ester
+5,train,Betaxolol ester
+5,train,Dexamethasone-?-D-glucoside
+5,train,dexamethasone b D glucoside
+5,train,dexamethasone b D glucuronide
+5,train,Dexamethasone-?-D-glucuronide
+5,train,11-keto-beta-boswellic acid (KBA)
+5,train,codeine
+5,train,Codeine
+5,train,PNU-179399
+5,train,Berberrubine (BRB)
+5,train,25f
+5,train,cefazolin
+5,train,Lys-FITC-OCH3
+5,train,Lithospermic acid (LSA)
+5,train,22
+5,train,1033-Dextromethorphan (DEM)
+5,train,Dextromethorphan
+5,train,Telaprevir
+5,train,VX-950
+5,train,Oxaprozin
+5,train,N-carbobenzoxy-tryptophan
+5,train,cyclo[Trp-Ala-Gly-Gly-Asp-Ala]
+5,train,32f
+5,train,32b
+5,train,TMC435350 (32c)
+5,train,Ergonovine
+5,train,tenoxicam
+5,train,omeprazole
+5,train,lansoprazole
+5,train,Oxazolidin-2-one (OXa)
+5,train,OXb
+5,train,OXc
+5,train,OXd
+5,train,Fluorescein
+5,train,2l
+5,train,2n
+5,train,2m
+5,train,2o
+5,train,Lamivudine
+5,train,Raloxifene HCl
+5,train,Losartan
+5,train,IRR (23)
+5,train,IRR 
+5,train,25c
+5,train,Org 5222
+5,train,XM970
+5,train,Diltiazem
+5,train,167-cephradine
+5,train,Flupenthixol
+5,train,Cycloheximide
+5,train,Rifampicin
+5,train,Ajmalicine (AMC)
+5,train,Icariin
+5,train,Org 12962
+5,train,a-Zearalenol (a-ZEL)
+5,train,Gomisin A
+5,train,Sulfasalamide
+5,train,sulfasalazine
+5,train,S2
+5,train,368177
+5,train,Simvastatin
+5,train,Lovastatin
+5,train,L-alanine
+5,train,"(2E,4Z,8Z)-N-isobutyldodeca-2,4,10-triene-8 -ynamide"
+5,train,Glycylsarcosine
+5,train,Choline
+5,train,Capric acid (decanoic acid)
+5,train,Ac-Gly-Asn-Ala-NH2
+5,train,Ac-Gly-Lys-Ala-NH2
+5,train,Glutaminic Acid
+5,train,glycerol
+5,train,"8-Hydroxy-pentadeca-(9E,13Z)-dien-11-yn-2-one (2)"
+5,train,CD1
+5,train,"Pentadeca-(8Z,13Z)dien-11-yn-2-one (5)"
+5,train,"Tetradec-(8Z)-ene-11,13-diyn-2-one (6)"
+5,train,CD21
+5,train,"(2E,4Z,8Z)-N-isobutyldodeca-2,4,10-triene-8 -ynamide (4) mw = 245"
+5,train,Valproic acid
+5,train,808-Asn-Ala-NH2
+5,train,"(2E,9Z)-N-(2-methylbutyl)pentadeca-2,9-diene-12,14-diynamide"
+5,train,5-aminolevulinic acid
+5,train,Putrescine
+5,train,"453-(2E,4E,8Z,10Z)-N-Isobutyldodeca-2,4,8,10-tetraenamide (5) mw=247"
+5,train,"643-(2E,4E,8Z)-N-isobutyldodeca-2,4,8-trienamide (6) mw = 249"
+5,train,Acrylamide
+5,train,methanol
+5,train,Glutamine
+5,train,Erlotinib
+5,train,EF5292
+5,train,Bromazepam
+5,train,Thalidomide
+5,train,32
+5,train,loracarbef
+5,train,12q
+5,train,Ketanserin
+5,train,Glycocholate
+5,train,2
+5,train,Sulfasalazine
+5,train,sulfamethoxazole
+5,train,Cepharanthine (CEP)
+5,train,-
+5,train,-
+5,train,-
+5,train,-
+5,train,-
+5,train,-
+5,train,-
+5,train,-
+5,train,Ethionamide
+5,train,-
+5,train,-
+5,train,-
+5,train,-
+5,train,14
+5,train,13
+5,train,2
+5,train,Furazolidone
+5,train,DMP 851
+5,train,6
+5,train,6b
+5,train,Desloratadine
+5,train,-
+5,train,8
+5,train,10
+5,train,hydrocortisone
+5,train,corticosterone
+5,train,Corticosterone
+5,train,desoxycarticosterone
+5,train,Prednisolone
+5,train,677-Prednisolone
+5,train,Methylprednisolone
+5,train,prednisolone
+5,train,36
+5,train,Imidacloprid (IMI)
+5,train,23
+5,train,22
+5,train,24
+5,train,31
+5,train,28
+5,train,30
+5,train,32
+5,train,34
+5,train,35
+5,train,Clarithromycin
+5,train,erythromycin
+5,train,cimetidine
+5,train,Cimetidine
+5,train,Tinidazole
+5,train,Phencyclidine (PCP)
+5,train,N-desmethylclozapine
+5,train,Clozapine
+5,train,(Z)-19g
+5,train,(Z)-19f
+5,train,Cetirizine
+5,train,MEN14268
+5,train,DB377 (4)
+5,train,"DB75 [2,5-bis(4-amidinophenyl)furan]"
+5,train,methylscopolamine
+5,train,PNU-184470
+5,train,228-Raffinose
+5,train,raffinose
+5,train,Indinavir
+5,train,imipramine
+5,train,S-6j
+5,train,KAR-2
+5,train,3
+5,train,Metolazone
+5,train,metolazone
+5,train,3
+5,train,hydralazine
+5,train,25a
+5,train,PNU200681
+5,train,"880-(2S,4S,5R)-[2-(E-Phenylvinyl)-4-methyl-1,3-dioxan-5-yl]amine (6b)"
+5,train,"879-(cis)-[2-(E-Phenylvinyl)-1,3-dioxan-5-yl]amine (6a)"
+5,train,Chlortetracycline
+5,train,263-Amrinone
+5,train,11
+5,train,Dronedarone
+5,train,Pyrilamine Maleate
+5,train,U-84656 (IV)
+5,train,PB-104
+5,train,PB-102
+5,train,LY334370
+5,train,Rivulobirin A
+5,train,13
+5,train,13c
+5,train,isoquercitrin 
+5,train,G6262
+5,train,Lactulose
+5,train,S1
+5,train,10
+5,train,CPU-86017
+5,train,DMXAA-G
+5,train,5'-L-phenylalanyl-cytarabine (5)
+5,train,Valsartan
+5,train,Cycloserine
+5,train,2d
+5,train,2i
+5,train,Org 34167
+5,train,Emetine
+5,train,15j
+5,train,15f
+5,train,"Dimethyl-4',4'-dimethoxy-5,6,5',6'-dimethylene dioxybiphenyl-2,2'-dicarboxylate (DDB)"
+5,train,Bicyclol
+5,train,saquinavir
+5,train,Saquinavir
+5,train,187-Saquinavir
+5,train,propranolol ester
+5,train,Propranolol ester
+5,train,NK1NK2 analogue 104 (15f)
+5,train,Labetalol
+5,train,PB-27
+5,train,"UK 224,671"
+5,train,ME3229
+5,train,PNU-93936A
+5,train,Loxoprofen
+5,train,preladenant
+5,train,Viloxazine
+5,train,Camazepam
+5,train,NK1NK2 analogue 212 (15d)
+5,train,Imatinib
+5,train,F-(S)-IZD
+5,train,Me-(S)-IZD
+5,train,Cyclo(-PFwKTF-) (1)
+5,train,Cyclo(-PFwKTMeF-) (3)
+5,train,Cyclo(-PFMewKTF-) (4)
+5,train,Cyclo(-PFMewMeKTF-) (6)
+5,train,Cyclo(-PFMewKTMeF-) (7)
+5,train,21c
+5,train,5'-L-phenylalanyl-floxuridine
+5,train,5'-L-valyl-L-phenylalanyl-floxuridine
+5,train,Isoliquiritigenin (35)
+5,train,49
+5,train,48
+5,train,Nicardipine
+5,train,EACV
+5,train,SACV
+5,train,AACV
+5,train,VACV
+5,train,IACV
+5,train,"2-Amino-1-methyl-6-phenylimidazo-[4,5-b]pyridine (PhIP)"
+5,train,OXh
+5,train,Atorvastatin
+5,train,403-Atorvastatin
+5,train,camptothecin
+5,train,9-Nitrocamptothecin (9-NC)
+5,train,"L1 (1,2-dimethyl-3 hydroxypyridin-4-one)"
+5,train,14c
+5,train,Sucrose
+5,train,II
+5,train,XP13512
+5,train,Cycloastragenol
+5,train,vinblastine
+5,train,Cytarabine (1)
+5,train,5'-L-valyl-cytarabine (2)
+5,train,Loperamide HCl
+5,train,9
+5,train,10c
+5,train,10d
+5,train,11b
+5,train,11c
+5,train,11e
+5,train,12c
+5,train,12d
+5,train,11d
+5,train,11f
+5,train,7d
+5,train,Reserpine
+5,train,Bendroflumethiazide
+5,train,5m
+5,train,E24
+5,train,21b
+5,train,882-13i
+5,train,881-13h
+5,train,Fluvastatin
+5,train,11
+5,train,Betaxolol
+5,train,betazolol
+5,train,32h
+5,train,Cisapride
+5,train,9
+5,train,ganciclovir
+5,train,Acyclovir
+5,train,Org 13011
+5,train,"NK1NK2 analogue 105 (MDL 105,212)"
+5,train,1-naphthol
+5,train,naproxen
+5,train,naproxen sodium
+5,train,Proscillaridin
+5,train,MEN15353
+5,train,943-Ketotifen fumarate (38)
+5,train,Ketotifen
+5,train,20E 22-methyl ether (4)
+5,train,PoA 2-methyl ether (16)
+5,train,PoA 3.22-dimethyl ether (20)
+5,train,Ponasterone A (26)
+5,train,20E 22-ethyl ether (5)
+5,train,20E 22-allyl ether (7)
+5,train,20E 25-methyl ether (10)
+5,train,PoA 22-methyl ether (18)
+5,train,20-Hydroxyecdysone (25)
+5,train,Muristerone A (28)
+5,train,Tamoxifen
+5,train,PNU-184435
+5,train,N-Acetyl-D-phenylalanine Phenethylamide (11a)
+5,train,N-Acetyl-D-phenylalanyl-D-phenylalanine N-Methylamide (5a)
+5,train,Ac-D-phe2-NH2
+5,train,meloxicam
+5,train,16
+5,train,PNU-179397
+5,train,Lobucavir
+5,train,S-nitrosylated captopril (CapNO)
+5,train,679-Captopril (Cap)
+5,train,Gly-Pro (glycylproline)
+5,train,Captopril (Cap)
+5,train,d-praeruptorin
+5,train,Triazolam
+5,train,Thiamin (Vitamin B1)
+5,train,lisinopril
+5,train,Enalaprilat
+5,train,enalapril
+5,train,Lisinopril
+5,train,Aminopyrine
+5,train,36
+5,train,Exemestane
+5,train,"18 (5R,S)"
+5,train,Doxorubicin
+5,train,Daunorubicin
+5,train,Zolpidem
+5,train,30d
+5,train,4
+5,train,2
+5,train,4-(quinolin-4-ylmethylamino)-N-(3-(trifluoromethyl)phenyl)isothiazole-3-carboxamide (30)
+5,train,Carbendazim
+5,train,Chloroquine
+5,train,6MAQH (W2)
+5,train,(E-Z)-19a
+5,train,(Z)-19c
+5,train,Naringin
+5,train,tenidap
+5,train,"EI analogue 101 (MDL 101,146)"
+5,train,Amiloride
+5,train,061-Amiloride
+5,train,PNU-184148
+5,train,nadalol
+5,train,Bicalutamide
+5,train,NS5B inhibitor 2
+5,train,"Quercetin 3,4'-diglucoside"
+5,train,32g
+5,train,theophylline
+5,train,Pentoxifylline
+5,train,caffeine
+5,train,Glipizide
+5,train,MMMDPB
+5,train,T2000
+5,train,T2007
+5,train,SB209670
+5,train,13d
+5,train,13e
+5,train,13g
+5,valid,H 95/71
+5,valid,H 244/45
+5,valid,D-Phe-D-Ala-D-Ser-OH
+5,valid,Dexloxiglumide
+5,valid,Ac-D-phe-NH2
+5,valid,benzoic acid
+5,valid,Methylparaben
+5,valid,Propylparaben
+5,valid,Butylparaben
+5,valid,Octylparaben
+5,valid,Guanabenz
+5,valid,Methyldopa
+5,valid,5-chlorosalicylic acid
+5,valid,epinephrine
+5,valid,N-Acetyl-D-leucyl-D-phenylalanine N-Methylamide (4)
+5,valid,N-Acetylglycine Phenethylamide (7)
+5,valid,N-Acetyl-D-valine Phenethylamide (9a)
+5,valid,glycine-valine acyclovir
+5,valid,guanabenz
+5,valid,7
+5,valid,6
+5,valid,Tanshinol (TSL)
+5,valid,Metoprolol
+5,valid,acetaminophen
+5,valid,N-[5-[(4-Dimethylaminobenzoyl)amino]pentyl]-2-mercaptoacetamide (S2)
+5,valid,Vorinostat (SAHA-suberoylanilide hydroxamic acid)
+5,valid,Sulfanilic acid
+5,valid,Paraoxon
+5,valid,alminoprofen
+5,valid,D-Glu(OBzl)-Ala
+5,valid,N-Acetyl-D-alanyl-D-phenylalanine N-Methylamide (2)
+5,valid,N-Acetyl-D-valyl-D-phenylalanine N-Methylamide (3a)
+5,valid,D-Ser(Bzl)-Ala
+5,valid,N-Acetyl-D-alanine Phenethylamide (8)
+5,valid,N-Acetyl-D-leucine Phenethylamide (10)
+5,valid,174-Guanabenz
+5,valid,285-Ephedrine
+5,valid,Amphetamine sulfate
+5,valid,OXe
+5,valid,Ethylparaben
+5,valid,Bisoprolol
+5,valid,Methyl gallate
+5,valid,Bupropion
+5,valid,Epinephrine
+5,valid,"(E)-4-(3,4-dimethoxyphenyl)but-3-en-1-yl linoleate (1)"
+5,valid,"(E)-4-(3,4-dimethoxyphenyl)but-3-en-1-yl oleate (2)"
+5,valid,Compound D
+5,valid,Brucine N-oxide (B-N)
+5,valid,Remikiren (Ro 42-5892)
+5,valid,Cerulenin
+5,valid,60a
+5,valid,67c
+5,valid,BILN-2061
+5,valid,E25
+5,valid,E23
+5,valid,LY366092
+5,valid,Lobucavir
+5,valid,cephalexin
+5,valid,cephalexin acetylated
+5,valid,4c
+5,valid,PNU-179450
+5,valid,PNU-182347
+5,valid,PNU-182945
+5,valid,PNU-241028
+5,valid,PNU-179962
+5,valid,Salvianolic acid D (SAD)
+5,valid,Folinic acid
+5,valid,Ouabain
+5,valid,cymarin
+5,valid,ouabain
+5,valid,Cymarin
+5,valid,27
+5,valid,29
+5,valid,21
+5,valid,1
+5,valid,XI
+5,valid,XIV
+5,valid,V
+5,valid,VIII
+5,valid,CA-DADLE
+5,valid,Corynanthine (COR)
+5,valid,Yohimbine (YOH)
+5,valid,801-Yohimbine (YOH)
+5,valid,Tenidap
+5,valid,"3-[5-(4-hydroxyphenyl)-1,3-oxazol-2-yl]phenol (18)"
+5,valid,20(S)-camptothecin (CPT)
+5,valid,PDE-310
+5,valid,DG (13)
+5,valid,fluparoxan
+5,valid,Fluparoxan (GR50360A)
+5,valid,daidzin 
