@@ -11,8 +11,10 @@ day5-2-lab/setup/SETUP.md 대로 실습 환경을 만들어줘.
 내가 직접 해야 할 게 있으면 알려줘. 프로그래밍은 잘 몰라.
 ```
 
-**15~25분 걸립니다.** 돌아가는 동안 `LAB.md` 의 앞부분을 읽어 두면 좋습니다.
-자세한 안내는 [setup/SETUP_PROMPT.md](setup/SETUP_PROMPT.md) 에 있습니다.
+설치가 도는 동안 **[LAB.md](LAB.md) 를 끝까지 한 번 읽습니다.**
+오늘 무엇을 하는지 알고 시작해야 설치가 끝나자마자 바로 들어갈 수 있습니다.
+
+자세한 설치 안내는 [setup/SETUP_PROMPT.md](setup/SETUP_PROMPT.md) 에 있습니다.
 
 ## 끝나면 이 두 줄을 확인합니다
 
