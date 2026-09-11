@@ -51,10 +51,14 @@ ER이 아니라 log ER을 쓰는 이유는 비율이라 분포가 심하게 쏠�
 **Claude에게 이 한 줄만 준다.**
 
 ```
-chemprop 을 이용해서 er_dataset.csv 로 예측 모델을 만들어줘
+chemprop 을 이용해서 data/er_dataset.csv 로 예측 모델을 만들어줘
 ```
 
 **정말 이것만 준다.** 어떻게 나눌지, 몇 번 돌릴지, 무엇으로 평가할지 **아무것도 말하지 않는다.**
+
+> `data/part2/` 와 `data/part3/` 폴더는 **2부·3부에서 씁니다. 지금은 열지 않는다.**
+> Claude가 그쪽 파일을 쓰려고 하면 「`er_dataset.csv` 만 써줘」라고 말한다.
+> 미리 쓰면 2부에서 알아낼 것이 사라진다.
 
 **20~25분 걸린다.** 그동안 다음 쪽을 읽으며 기다린다.
 
@@ -112,7 +116,7 @@ Random Forest 베이스라인과 비교까지 했다.
 ## ④ 시험지를 비교한다
 
 옆 사람 파일을 받아 올 필요는 없다. **같은 프롬프트로 미리 돌려 둔 두 사람의
-시험지**가 `data/` 에 들어 있다. 그것과 내 것을 비교하면 된다.
+시험지**가 `data/part2/` 에 들어 있다. 그것과 내 것을 비교하면 된다.
 
 | 파일 | 내용 |
 |---|---|
@@ -123,9 +127,9 @@ Random Forest 베이스라인과 비교까지 했다.
 
 ```
 내 모델이 평가에 쓴 test set의 SMILES 목록을 뽑아줘.
-그다음 data/other_run_1_test.csv, other_run_2_test.csv 와 비교해서
+그다음 data/part2/other_run_1_test.csv, other_run_2_test.csv 와 비교해서
   1. 내 시험지와 몇 개나 겹치는지
-  2. 내 시험 문제 중 몇 개가 other_run_1_train.csv, other_run_2_train.csv 에
+  2. 내 시험 문제 중 몇 개가 part2/other_run_1_train.csv, other_run_2_train.csv 에
      (= 그 사람들의 학습 데이터에) 들어 있는지
 를 세어줘. SMILES는 RDKit으로 정규화해서 비교해줘.
 ```
@@ -161,14 +165,14 @@ Random Forest 베이스라인과 비교까지 했다.
 
 ## ⑤ 공통 시험지로 다시 평가한다
 
-`er_train.csv` (2,114개) 와 `er_test.csv` (528개) 를 나눠준다.
+이제 `data/part3/` 를 연다. `er_train.csv` (2,114개) 와 `er_test.csv` (528개) 가 들어 있다.
 
 - 골격(scaffold) 기준으로 나눠서 **겹치는 골격이 0개**다
 - 학습 쪽과 시험 쪽의 log_er 분포가 거의 같다 (평균 0.399 vs 0.395)
 - **모두가 같은 528개로 평가하므로 이제 점수를 나란히 놓을 수 있다**
 
 ```
-er_train.csv 로만 학습하고 er_test.csv 로 평가해줘.
+data/part3/er_train.csv 로만 학습하고 data/part3/er_test.csv 로 평가해줘.
 train 안에서 검증셋을 떼는 건 괜찮지만, er_test.csv 는 학습에 절대 쓰지 마.
 시드를 1, 2, 3 으로 세 번 돌려서 평균과 범위를 내줘.
 ```
