@@ -39,6 +39,7 @@ day5-2-lab/setup/SETUP.md 대로 실습 환경을 만들어줘.
 | `setup/` | 설치 — 제일 먼저 합니다 |
 | `data/er_dataset.csv` | 학습 데이터 2,642개 |
 | `data/leaderboard_compounds.csv` | 리더보드용 26개 (정답 없음) |
+| `data/admetlab3_leaderboard.csv` | 선택 단계용 — ADMETlab 3.0 결과를 미리 받아 둔 것 |
 
 ## 필요한 것
 
